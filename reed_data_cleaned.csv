@@ -1,0 +1,834 @@
+title,company,location,contract,remote,salary,hourly_rate,day_rate,min_salary,max_salary,avg_salary,city,title_simplified,seniority,permanent,temporary,remote_binary,recruitment_consultancy
+data scientist,eg group,guide,"permanent, full-time",no,"£30,000 per annum",0,0,30000,30000,30000,other cities,data scientist,other,1,0,0,0
+data scientist,adecco,bristol,"permanent, full-time",no,"£50,000 - £65,000 per annum",0,0,50000,65000,57500,other cities,data scientist,other,1,0,0,0
+data scientist,io sphere,city of london,"permanent, full-time or part-time",no,"£40,000 - £70,000 per annum",0,0,40000,70000,55000,london,data scientist,other,1,0,0,0
+data scientist,adlib,bath,"permanent, full-time",no,"£40,000 - £50,000 per annum",0,0,40000,50000,45000,other cities,data scientist,other,1,0,0,0
+data scientist,pontoon,crewe,"contract, full-time",no,£450 - £500 per day,0,1,117000,130000,123500,other cities,data scientist,other,0,1,0,0
+data scientist,guidant global,cheltenham,"contract, full-time",no,£700 - £800 per day,0,1,182000,208000,195000,other cities,data scientist,other,0,1,0,0
+data scientist,harnham - data & analytics recruitment,london,"permanent, full-time",no,"£35,000 - £45,000 per annum",0,0,35000,45000,40000,london,data scientist,other,1,0,0,1
+data scientist,harnham - data & analytics recruitment,redditch,"permanent, full-time",no,"£50,000 - £55,000 per annum",0,0,50000,55000,52500,other cities,data scientist,other,1,0,0,1
+data scientist,hyper recruitment solutions ltd,cambridgeshire,"permanent, full-time",no,"£45,000 - £55,000 per annum",0,0,45000,55000,50000,other cities,data scientist,other,1,0,0,1
+data scientist,betechnology group limited,coventry,"permanent, full-time",no,"£40,000 - £45,000 per annum",0,0,40000,45000,42500,other cities,data scientist,other,1,0,0,0
+data scientist,harnham - data & analytics recruitment,redditch,"permanent, full-time",no,"£45,000 - £55,000 per annum",0,0,45000,55000,50000,other cities,data scientist,other,1,0,0,1
+data scientist,harnham - data & analytics recruitment,birmingham,"permanent, full-time",no,"£50,000 - £60,000 per annum",0,0,50000,60000,55000,birmingham,data scientist,other,1,0,0,1
+data scientist,ashdown group,kingston upon thames,"permanent, full-time",no,"£75,000 - £85,000 per annum",0,0,75000,85000,80000,other cities,data scientist,other,1,0,0,0
+data scientist,adecco,london,"permanent, full-time",no,"£55,000 - £75,000 per annum",0,0,55000,75000,65000,london,data scientist,other,1,0,0,0
+data scientist,mcgregor boyall,london,"permanent, full-time",work from home,"£65,000 - £80,000 per annum",0,0,65000,80000,72500,london,data scientist,other,1,0,1,0
+data scientist,harnham - data & analytics recruitment,manchester,"permanent, full-time",no,"£60,000 - £75,000 per annum",0,0,60000,75000,67500,manchester,data scientist,other,1,0,0,1
+data scientist,ashdown group,putney,"permanent, full-time",no,"£75,000 - £85,000 per annum",0,0,75000,85000,80000,other cities,data scientist,other,1,0,0,0
+data scientist,allen lane,london,"permanent, full-time",no,"£55,000 - £62,000 per annum",0,0,55000,62000,58500,london,data scientist,other,1,0,0,0
+data scientist,harnham - data & analytics recruitment,manchester,"permanent, full-time",no,"£60,000 - £70,000 per annum",0,0,60000,70000,65000,manchester,data scientist,other,1,0,0,1
+data scientist,evermore global,london,"permanent, full-time",no,"£80,000 per annum",0,0,80000,80000,80000,london,data scientist,other,1,0,0,0
+data scientist,ukhcdo limited,salford,"permanent, full-time",no,"£43,742 - £57,349 per annum",0,0,43742,57349,50546,other cities,data scientist,other,1,0,0,0
+data scientist,vadis people service ltd,london,"permanent, full-time",no,"£60,000 - £70,000 per annum, negotiable",0,0,60000,70000,65000,london,data scientist,other,1,0,0,0
+data scientist,addition+,watford,"permanent, full-time",no,"£75,000 per annum",0,0,75000,75000,75000,other cities,data scientist,other,1,0,0,0
+data scientist,the gambling commission,birmingham,"permanent, full-time",no,"£45,000 per annum, inc benefits",0,0,45000,45000,45000,birmingham,data scientist,other,1,0,0,0
+data scientist,betechnology group limited,liverpool,"permanent, full-time",no,"£32,000 - £40,000 per annum",0,0,32000,40000,36000,other cities,data scientist,other,1,0,0,0
+data scientist,remit resources,new works,"permanent, full-time",no,"£40,000 - £50,000 per annum",0,0,40000,50000,45000,other cities,data scientist,other,1,0,0,0
+data scientist,clear it recruitment limited,guildford,"permanent, full-time",no,"£35,000 - £85,000 per annum",0,0,35000,85000,60000,other cities,data scientist,other,1,0,0,1
+data scientist,harnham - data & analytics recruitment,birmingham,"permanent, full-time",no,"£55,000 - £60,000 per annum",0,0,55000,60000,57500,birmingham,data scientist,other,1,0,0,1
+data scientist,advanced resource managers limited,london,"contract, full-time",work from home,£350 - £400 per day,0,1,91000,104000,97500,london,data scientist,other,0,1,1,0
+data scientist,adlib,cambridge,"permanent, full-time",no,"£45,000 - £55,000 per annum",0,0,45000,55000,50000,other cities,data scientist,other,1,0,0,0
+data scientist,idex consulting ltd,london,"permanent, full-time",no,"£80,000 - £100,000 per annum",0,0,80000,100000,90000,london,data scientist,other,1,0,0,0
+data scientist,experis ltd,london,"contract, full-time",work from home,£650 - £700 per day,0,1,169000,182000,175500,london,data scientist,other,0,1,1,0
+senior data scientist,causalens,london,"permanent, full-time",no,"£55,000 - £75,000 per annum",0,0,55000,75000,65000,london,data scientist,senior,1,0,0,0
+senior data scientist,lawrence harvey,london,"permanent, full-time",no,"£60,000 - £70,000 per annum",0,0,60000,70000,65000,london,data scientist,senior,1,0,0,0
+senior data scientist,robert walters,sheffield,"permanent, full-time",no,"£50,000 - £65,000 per annum",0,0,50000,65000,57500,other cities,data scientist,senior,1,0,0,0
+lead data scientist,in technology group limited,colchester,"permanent, full-time",no,"£75,000 - £75,001 per annum",0,0,75000,75001,75000,other cities,data scientist,senior,1,0,0,0
+senior data scientist,robert walters,london,"permanent, full-time",no,"£75,000 - £95,000 per annum",0,0,75000,95000,85000,london,data scientist,senior,1,0,0,0
+lead data scientist,eames consulting,london,"permanent, full-time",no,"£100,000 per annum",0,0,100000,100000,100000,london,data scientist,senior,1,0,0,0
+lead data scientist,in technology group limited,colchester,"permanent, full-time",no,"£90,000 - £90,001 per annum",0,0,90000,90001,90000,other cities,data scientist,senior,1,0,0,0
+senior data scientist,ashdown group,putney,"permanent, full-time",no,"£75,000 - £85,000 per annum",0,0,75000,85000,80000,other cities,data scientist,senior,1,0,0,0
+graduate data scientist,new london hr,mayfair,"permanent, full-time",no,"£55,000 - £65,000 per annum, ote, inc benefits, pro-rata, negotiable",0,0,55000,65000,60000,other cities,data scientist,junior,1,0,0,0
+senior data scientist,mfhr,sheffield,"permanent, full-time",no,"£55,000 - £70,000 per annum",0,0,55000,70000,62500,other cities,data scientist,senior,1,0,0,0
+senior data scientist,robert half,bristol,"permanent, full-time",no,"£70,000 - £72,400 per annum, inc benefits",0,0,70000,72400,71200,other cities,data scientist,senior,1,0,0,0
+lead data scientist,data idols,london,"permanent, full-time",no,"£80,000 - £90,000 per annum",0,0,80000,90000,85000,london,data scientist,senior,1,0,0,0
+data scientist pricing,harnham - data & analytics recruitment,london,"permanent, full-time",no,"£65,000 - £80,000 per annum",0,0,65000,80000,72500,london,data scientist,other,1,0,0,1
+lead data scientist,ashdown group,"richmond, surrey","permanent, full-time",no,"£75,000 - £85,000 per annum",0,0,75000,85000,80000,other cities,data scientist,senior,1,0,0,0
+insights data scientist,robert walters,london,"permanent, full-time",no,"£50,000 - £60,000 per annum",0,0,50000,60000,55000,london,data scientist,other,1,0,0,0
+junior data scientist,harnham - data & analytics recruitment,london,"contract, full-time",no,£250 - £300 per day,0,1,65000,78000,71500,london,data scientist,junior,0,1,0,1
+senior data scientist,ashdown group,"richmond, surrey","permanent, full-time",no,"£75,000 - £85,000 per annum",0,0,75000,85000,80000,other cities,data scientist,senior,1,0,0,0
+senior data scientist,searchability,malvern,"permanent, full-time",no,"£50,000 - £80,000 per annum, negotiable",0,0,50000,80000,65000,other cities,data scientist,senior,1,0,0,0
+lead data scientist,harnham - data & analytics recruitment,london,"permanent, full-time",no,"£100,000 - £120,000 per annum",0,0,100000,120000,110000,london,data scientist,senior,1,0,0,1
+principal data scientist,quinton davies limited,bristol,"permanent, full-time",no,"£65,000 - £75,000 per annum",0,0,65000,75000,70000,other cities,data scientist,other,1,0,0,0
+senior data scientist,harnham - data & analytics recruitment,london,"permanent, full-time",no,"£90,000 - £120,000 per annum",0,0,90000,120000,105000,london,data scientist,senior,1,0,0,1
+senior data scientist,understanding recruitment,london,"permanent, full-time",work from home,"£90,000 - £100,000 per annum",0,0,90000,100000,95000,london,data scientist,senior,1,0,1,1
+credit data scientist,harnham - data & analytics recruitment,london,"permanent, full-time",no,"£45,000 - £55,000 per annum",0,0,45000,55000,50000,london,data scientist,other,1,0,0,1
+lead data scientist,centre for health and disability assessments,london,"permanent, full-time",no,"£80,000 - £90,000 per annum",0,0,80000,90000,85000,london,data scientist,senior,1,0,0,0
+lead data scientist,remploy,london,"permanent, full-time",no,"£80,000 - £90,000 per annum",0,0,80000,90000,85000,london,data scientist,senior,1,0,0,0
+data analyst / data scientist,ncounter,london,"permanent, full-time",no,"£80,000 - £100,000 per annum, negotiable",0,0,80000,100000,90000,london,data analyst,other,1,0,0,0
+data scientist - pricing,harnham - data & analytics recruitment,birmingham,"permanent, full-time",no,"£50,000 - £55,000 per annum",0,0,50000,55000,52500,birmingham,data scientist,other,1,0,0,1
+data scientist - blockchain,understanding recruitment,london,"permanent, full-time",no,"£90,000 - £100,000 per annum",0,0,90000,100000,95000,london,data scientist,other,1,0,0,1
+data scientist - fintech,rose express recruitment,reading,"permanent, full-time",no,"£35,000 - £45,000 per annum, ote, inc benefits",0,0,35000,45000,40000,other cities,data scientist,other,1,0,0,1
+data scientist - consultancy,salt search,london,"permanent, full-time",no,"£45,000 - £55,000 per annum",0,0,45000,55000,50000,london,data scientist,other,1,0,0,0
+data scientist - remote,understanding recruitment,harpenden,"permanent, full-time",no,"£70,000 - £80,000 per annum",0,0,70000,80000,75000,other cities,data scientist,other,1,0,0,1
+senior data scientist ai,anson mccade ltd - it and finance recruitment,london,"permanent, full-time",no,"£95,000 - £110,000 per annum",0,0,95000,110000,102500,london,data scientist,senior,1,0,0,1
+marketing data scientist,robert walters,london,"contract, full-time",no,£350 - £410 per day,0,1,91000,106600,98800,london,data scientist,other,0,1,0,0
+senior data scientist - ai,salt search,london,"permanent, full-time",no,"£80,000 - £100,000 per annum",0,0,80000,100000,90000,london,data scientist,senior,1,0,0,0
+lead data scientist - ai,salt search,london,"permanent, full-time",no,"£100,000 - £120,000 per annum",0,0,100000,120000,110000,london,data scientist,senior,1,0,0,0
+senior data scientist - insurance,robert walters,london,"permanent, full-time",no,"£90,000 - £110,000 per annum",0,0,90000,110000,100000,london,data scientist,senior,1,0,0,0
+lead data scientist - ai,salt search,london,"permanent, full-time",no,"£70,000 - £90,000 per annum",0,0,70000,90000,80000,london,data scientist,senior,1,0,0,0
+"data scientist - python, ai",understanding recruitment,harpenden,"permanent, full-time",no,"£70,000 - £80,000 per annum",0,0,70000,80000,75000,other cities,data scientist,other,1,0,0,1
+"data scientist - ecommerce, travel",sphere digital recruitment,london,"permanent, full-time",no,"£60,000 - £65,000 per annum",0,0,60000,65000,62500,london,data scientist,other,1,0,0,1
+data scientist - government - consulting,sr2,london,"contract, full-time",no,£550 - £600 per day,0,1,143000,156000,149500,london,data scientist,other,0,1,0,0
+senior public health data scientist,reed talent solutions,london,"permanent, full-time",no,"£40,876 - £45,998 per annum",0,0,40876,45998,43437,london,data scientist,senior,1,0,0,0
+data scientist - pioneering ai house,pytec it recruitment,cambridge,"permanent, full-time",no,"£75,000 - £85,000 per annum",0,0,75000,85000,80000,other cities,data scientist,other,1,0,0,1
+junior data scientist r / sql,oliver james,manchester,"permanent, full-time",no,"£40,000 per annum",0,0,40000,40000,40000,manchester,data scientist,junior,1,0,0,0
+data scientist - permanent - london / hybrid,databuzz ltd,london,"permanent, full-time",no,"£30,000 - £40,000 per annum",0,0,30000,40000,35000,london,data scientist,other,1,0,0,0
+junior data scientist - contract to perm,harnham - data & analytics recruitment,london,"contract, full-time",no,£250 - £300 per day,0,1,65000,78000,71500,london,data scientist,junior,0,1,0,1
+senior data scientist - sustainable investments & ai (fully remote),carousel consultancy ltd,city of london,"permanent, full-time",work from home,"£90,000 - £97,000 per annum",0,0,90000,97000,93500,london,data scientist,senior,1,0,1,0
+data science lead dv,sanderson,gloucester,"permanent, full-time",no,"£75,000 - £92,000 per annum",0,0,75000,92000,83500,other cities,data scientist,senior,1,0,0,0
+data scientist_permanet - london/hybrid,databuzz ltd,london,"permanent, full-time",no,"£40,000 - £60,000 per annum",0,0,40000,60000,50000,london,data scientist,other,1,0,0,0
+machine learning engineer,harnham - data & analytics recruitment,london,"permanent, full-time",no,"£80,000 - £100,000 per annum",0,0,80000,100000,90000,london,machine learning engineer,other,1,0,0,1
+machine learning engineer,harnham - data & analytics recruitment,london,"permanent, full-time",no,"£70,000 - £100,000 per annum",0,0,70000,100000,85000,london,machine learning engineer,other,1,0,0,1
+machine learning engineer,oscar technology,london,"permanent, full-time",no,"£60,000 - £80,000 per annum, negotiable",0,0,60000,80000,70000,london,machine learning engineer,other,1,0,0,0
+graduate/junior machine learning engineer,it graduate recruitment,london,"permanent, full-time",work from home,"£45,000 - £70,000 per annum, ote, inc benefits, negotiable",0,0,45000,70000,57500,london,machine learning engineer,junior,1,0,1,1
+data science - ai & iot,anson mccade ltd - it and finance recruitment,london,"permanent, full-time",no,"£90,000 - £105,000 per annum",0,0,90000,105000,97500,london,data scientist,other,1,0,0,1
+data analyst / marketing analyst (ecommerce),guru careers,snodland,"permanent, full-time",no,"£40,000 - £45,000 per annum",0,0,40000,45000,42500,other cities,data analyst,other,1,0,0,0
+data science engineer - dv cleared,searchability,london,"permanent, full-time",no,"£40,000 - £85,000 per annum",0,0,40000,85000,62500,london,data scientist,other,1,0,0,0
+data science lead,rutherford briant,essex,"permanent, full-time",work from home,"£90,000 - £110,000 per annum",0,0,90000,110000,100000,other cities,data scientist,senior,1,0,1,0
+data analyst - forecasting,big red recruitment,tamworth,"permanent, full-time",no,"£40,000 - £58,680 per annum, inc benefits",0,0,40000,58680,49340,other cities,data analyst,other,1,0,0,1
+machine learning engineer- computer vision,lorien,abingdon,"contract, full-time",no,"£50,000 - £60,000 per annum",0,0,50000,60000,55000,other cities,machine learning engineer,other,0,1,0,0
+data analyst,betechnology group limited,liverpool,"permanent, full-time",no,"£32,000 - £40,000 per annum",0,0,32000,40000,36000,other cities,data analyst,other,1,0,0,0
+data science manager,morgan mckinley,london,"permanent, full-time",no,"£80,000 per annum",0,0,80000,80000,80000,london,data scientist,other,1,0,0,0
+director of data science,harnham - data & analytics recruitment,london,"permanent, full-time",work from home,"£100,000 - £120,000 per annum",0,0,100000,120000,110000,london,data scientist,other,1,0,1,1
+"senior data engineer - python, sql, etl",jefferson frank,edinburgh,"permanent, full-time",no,"£60,000 - £75,000 per annum",0,0,60000,75000,67500,other cities,data engineer,senior,1,0,0,0
+data analyst - signal processing,cy partners,london,"permanent, full-time",no,"£40,000 - £50,000 per annum, negotiable",0,0,40000,50000,45000,london,data analyst,other,1,0,0,0
+senior data engineer,jefferson frank,edinburgh,"permanent, full-time",no,"£65,000 - £75,000 per annum",0,0,65000,75000,70000,other cities,data engineer,senior,1,0,0,0
+data engineer - ml & ai,ashdown group,northampton,"permanent, full-time",work from home,"£70,000 - £100,000 per annum",0,0,70000,100000,85000,other cities,data engineer,other,1,0,1,0
+senior data manager,national foundation for educational research,slough,"permanent, full-time",work from home,"£39,500 - £44,000 per annum",0,0,39500,44000,41750,other cities,other,senior,1,0,1,0
+data science manager,yolk recruitment ltd,london,"permanent, full-time",no,"£100,000 - £116,000 per annum",0,0,100000,116000,108000,london,data scientist,other,1,0,0,1
+data science manager,yolk recruitment ltd,gloucestershire,"permanent, full-time",no,"£100,000 - £116,000 per annum",0,0,100000,116000,108000,other cities,data scientist,other,1,0,0,1
+machine learning or nlp,microtech global ltd,london,"permanent, full-time",no,"£100,000 - £130,000 per annum",0,0,100000,130000,115000,london,machine learning engineer,other,1,0,0,0
+machine learning researcher,in technology group limited,cambridge,"permanent, full-time",work from home,"£80,000 - £80,001 per annum",0,0,80000,80001,80000,other cities,machine learning engineer,other,1,0,1,0
+data science manager,harnham - data & analytics recruitment,london,"permanent, full-time",no,"£75,000 - £85,000 per annum, inc benefits",0,0,75000,85000,80000,london,data scientist,other,1,0,0,1
+data engineer - retail,harnham - data & analytics recruitment,leeds,"permanent, full-time",no,"£38,000 - £40,000 per annum",0,0,38000,40000,39000,leeds,data engineer,other,1,0,0,1
+"lead data engineer - £110,000 - london",jefferson frank,london,"permanent, full-time",no,"£95,000 - £110,000 per annum",0,0,95000,110000,102500,london,data engineer,senior,1,0,0,0
+senior business analyst,sanderson,london,"permanent, full-time",no,"£75,000 - £90,000 per annum",0,0,75000,90000,82500,london,business analyst,senior,1,0,0,0
+lead data engineer - retail,harnham - data & analytics recruitment,leeds,"permanent, full-time",no,"£38,000 - £40,000 per annum",0,0,38000,40000,39000,leeds,data engineer,senior,1,0,0,1
+data engineer,eames consulting,london,"permanent, full-time",no,"£60,000 per annum",0,0,60000,60000,60000,london,data engineer,other,1,0,0,0
+web scaper data engineer,harnham - data & analytics recruitment,london,"permanent, full-time",no,"£40,000 - £80,000 per annum",0,0,40000,80000,60000,london,data engineer,other,1,0,0,1
+lead data engineer,harnham - data & analytics recruitment,london,"permanent, full-time",no,"£45,000 - £60,000 per annum",0,0,45000,60000,52500,london,data engineer,senior,1,0,0,1
+data engineer,harnham - data & analytics recruitment,edinburgh,"permanent, full-time",work from home,"£45,000 - £65,000 per annum, ote, inc benefits, pro-rata, negotiable",0,0,45000,65000,55000,other cities,data engineer,other,1,0,1,1
+athena academy - data engineering,sparta global,city of london,"permanent, full-time",no,"£25,000 per annum, ote, inc benefits",0,0,25000,25000,25000,london,data engineer,other,1,0,0,0
+data analyst,harnham - data & analytics recruitment,birmingham,"permanent, full-time",no,"£35,000 - £40,000 per annum",0,0,35000,40000,37500,birmingham,data analyst,other,1,0,0,1
+"associate director, data science",harnham - data & analytics recruitment,london,"permanent, full-time",no,"£105,000 - £115,000 per annum",0,0,105000,115000,110000,london,data scientist,other,1,0,0,1
+data engineer,spectrum it recruitment,london,"permanent, full-time",no,"£85,000 - £90,000 per annum",0,0,85000,90000,87500,london,data engineer,other,1,0,0,1
+customer data engineer,harnham - data & analytics recruitment,london,"permanent, full-time",no,"£32,000 - £45,000 per annum",0,0,32000,45000,38500,london,data engineer,other,1,0,0,1
+senior data engineer,scipro,hertfordshire,"permanent, full-time",no,"£55,000 - £65,000 per annum",0,0,55000,65000,60000,other cities,data engineer,senior,1,0,0,0
+data manager,boston hale,city of london,"permanent, full-time",work from home,"£80,000 - £100,000 per annum",0,0,80000,100000,90000,london,other,other,1,0,1,0
+junior data engineer,sparta global,manchester,"permanent, full-time",no,"£25,000 per annum, ote, inc benefits",0,0,25000,25000,25000,manchester,data engineer,junior,1,0,0,0
+junior data engineer,sparta global,city of london,"permanent, full-time",no,"£25,000 per annum, ote, inc benefits",0,0,25000,25000,25000,london,data engineer,junior,1,0,0,0
+data engineer,adria solutions ltd,manchester,"permanent, full-time",work from home,"£55,000 - £70,000 per annum",0,0,55000,70000,62500,manchester,data engineer,other,1,0,1,0
+senior data engineer,cps group,cardiff,"permanent, full-time",no,"£50,000 - £65,000 per annum",0,0,50000,65000,57500,other cities,data engineer,senior,1,0,0,0
+junior data engineer,sparta global,birmingham,"permanent, full-time",no,"£25,000 per annum, ote, inc benefits",0,0,25000,25000,25000,birmingham,data engineer,junior,1,0,0,0
+data engineer,morgan mckinley,oxfordshire,"permanent, full-time",no,"£80,000 - £90,000 per annum",0,0,80000,90000,85000,other cities,data engineer,other,1,0,0,0
+permanent business analyst,searchability,gloucester,"permanent, full-time",no,"£70,000 per annum",0,0,70000,70000,70000,other cities,business analyst,other,1,0,0,0
+business analyst - contract,searchability,gloucester,"permanent, full-time",no,£600 per day,0,1,156000,156000,156000,other cities,business analyst,other,1,0,0,0
+sustainability business analyst,air-recruitment,london,"permanent, full-time",no,"£50,000 - £70,000 per annum",0,0,50000,70000,60000,london,business analyst,other,1,0,0,1
+senior data engineer etl python aws - fintech,client server ltd.,london,"permanent, full-time",no,"£80,000 - £90,000 per annum",0,0,80000,90000,85000,london,data engineer,senior,1,0,0,0
+business intelligence / data engineer,michael page technology,solihull,"permanent, full-time",work from home,"£50,000 - £57,000 per annum, inc benefits",0,0,50000,57000,53500,other cities,data engineer,other,1,0,1,0
+machine learning engineer,robert walters,london,"permanent, full-time",no,"£70,000 - £90,000 per annum",0,0,70000,90000,80000,london,machine learning engineer,other,1,0,0,0
+data analyst (entry level),io sphere,city of london,"permanent, full-time",no,"£30,000 - £45,000 per annum",0,0,30000,45000,37500,london,data analyst,junior,1,0,0,0
+aws data engineer,betechnology group limited,coventry,"permanent, full-time",no,"£40,000 - £45,000 per annum",0,0,40000,45000,42500,other cities,data engineer,other,1,0,0,0
+data analyst,amnesty international,london,"contract, full-time",no,"£44,682 per annum",0,0,44682,44682,44682,london,data analyst,other,0,1,0,0
+data analyst,anson mccade ltd - it and finance recruitment,london,"permanent, full-time",no,"£40,000 - £75,000 per annum",0,0,40000,75000,57500,london,data analyst,other,1,0,0,1
+data analyst,hays specialist recruitment limited,south london,"contract, full-time",no,£200 - £300 per day,0,1,52000,78000,65000,london,data analyst,other,0,1,0,1
+data analyst,viqu limited,manchester,"contract, full-time",no,£400 - £500 per day,0,1,104000,130000,117000,manchester,data analyst,other,0,1,0,0
+data analyst,adria solutions ltd,manchester,"permanent, full-time",no,"£45,000 - £50,000 per annum",0,0,45000,50000,47500,manchester,data analyst,other,1,0,0,0
+data analyst,rark solutions ltd,tunbridge wells,"permanent, full-time",no,"£50,000 - £65,000 per annum",0,0,50000,65000,57500,other cities,data analyst,other,1,0,0,0
+data analyst,rark solutions ltd,tunbridge wells,"permanent, full-time",no,"£45,000 - £60,000 per annum",0,0,45000,60000,52500,other cities,data analyst,other,1,0,0,0
+data analyst,ukhcdo limited,salford,"contract, full-time",no,"£35,392 - £42,618 per annum",0,0,35392,42618,39005,other cities,data analyst,other,0,1,0,0
+data analyst,harnham - data & analytics recruitment,london,"permanent, full-time",no,"£35,000 - £45,000 per annum",0,0,35000,45000,40000,london,data analyst,other,1,0,0,1
+data analyst,in technology group limited,derby,"permanent, full-time",no,"£35,000 - £45,000 per annum",0,0,35000,45000,40000,other cities,data analyst,other,1,0,0,0
+data analyst,gold group ltd,newcastle upon tyne,"permanent, full-time",no,"£26,000 per annum",0,0,26000,26000,26000,other cities,data analyst,other,1,0,0,0
+data analyst,harnham - data & analytics recruitment,birmingham,"permanent, full-time",no,"£35,000 - £42,000 per annum",0,0,35000,42000,38500,birmingham,data analyst,other,1,0,0,1
+data analyst,yolk recruitment ltd,stevenage,"contract, full-time",no,£35 - £38 per hour,1,0,70000,76000,73000,other cities,data analyst,other,0,1,0,1
+data analyst,quantica technology,west yorkshire,"permanent, full-time",no,"£30,000 - £35,000 per annum",0,0,30000,35000,32500,other cities,data analyst,other,1,0,0,0
+data analyst,invigorate recruitment,wetherby,"permanent, full-time",no,"£35,000 - £50,000 per annum",0,0,35000,50000,42500,other cities,data analyst,other,1,0,0,1
+data analyst,heat recruitment,belfast,"permanent, full-time",no,"£30,000 - £35,000 per annum",0,0,30000,35000,32500,other cities,data analyst,other,1,0,0,1
+data analyst,senitor associates,birmingham,"permanent, full-time",no,"£25,000 - £32,000 per annum",0,0,25000,32000,28500,birmingham,data analyst,other,1,0,0,0
+data analyst,adecco,"tonymore, derrylin","permanent, full-time",no,"£32,000 - £34,000 per annum",0,0,32000,34000,33000,other cities,data analyst,other,1,0,0,0
+data analyst,gleeson recruitment group,birmingham,"permanent, full-time",no,"£30,000 per annum",0,0,30000,30000,30000,birmingham,data analyst,other,1,0,0,1
+data analyst,allegiance technology,coventry,"permanent, full-time",no,"£40,000 - £60,000 per annum",0,0,40000,60000,50000,other cities,data analyst,other,1,0,0,0
+data analyst,sf recruitment,evesham,"permanent, full-time",no,"£25,000 - £35,000 per annum",0,0,25000,35000,30000,other cities,data analyst,other,1,0,0,1
+data analyst,harnham - data & analytics recruitment,leeds,"permanent, full-time",no,"£35,000 - £40,000 per annum",0,0,35000,40000,37500,leeds,data analyst,other,1,0,0,1
+data analyst,cathcart technology,manchester,"permanent, full-time",no,"£35,000 - £39,000 per annum",0,0,35000,39000,37000,manchester,data analyst,other,1,0,0,0
+data analyst,macildowie recruitment and retention,northampton,"permanent, full-time",no,"£32,000 - £40,000 per annum",0,0,32000,40000,36000,other cities,data analyst,other,1,0,0,1
+data analyst,adecco,newbury,"permanent, full-time",no,"£24,000 - £26,000 per annum",0,0,24000,26000,25000,other cities,data analyst,other,1,0,0,0
+data analyst,harnham - data & analytics recruitment,manchester,"permanent, full-time",no,"£35,000 - £45,000 per annum",0,0,35000,45000,40000,manchester,data analyst,other,1,0,0,1
+data analyst,searchability,sandhurst,"permanent, full-time",no,"£35,000 - £65,000 per annum",0,0,35000,65000,50000,other cities,data analyst,other,1,0,0,0
+data analyst,harnham - data & analytics recruitment,manchester,"permanent, full-time",no,"£40,000 - £45,000 per annum",0,0,40000,45000,42500,manchester,data analyst,other,1,0,0,1
+data analyst,lorien,leeds,"permanent, full-time",no,"£30,000 - £35,000 per annum",0,0,30000,35000,32500,leeds,data analyst,other,1,0,0,0
+data analyst,cbc resourcing solutions,warrington,"permanent, full-time",no,"£55,000 - £65,000 per annum",0,0,55000,65000,60000,other cities,data analyst,other,1,0,0,0
+data analyst,macildowie recruitment and retention,leicester,"permanent, full-time",no,"£25,000 - £32,000 per annum",0,0,25000,32000,28500,other cities,data analyst,other,1,0,0,1
+data analyst,macildowie recruitment and retention,nuneaton,"permanent, full-time",no,"£40,000 - £45,000 per annum",0,0,40000,45000,42500,other cities,data analyst,other,1,0,0,1
+data analyst,morgan mckinley,guildford,"permanent, full-time",no,"£28,000 - £32,000 per annum, inc benefits",0,0,28000,32000,30000,other cities,data analyst,other,1,0,0,0
+data analyst,harnham - data & analytics recruitment,peterborough,"permanent, full-time",no,"£30,000 - £35,000 per annum",0,0,30000,35000,32500,other cities,data analyst,other,1,0,0,1
+data analyst,nigel frank international,newcastle upon tyne,"permanent, full-time",no,"£40,000 per annum",0,0,40000,40000,40000,other cities,data analyst,other,1,0,0,0
+data analyst,harnham - data & analytics recruitment,hastings,"permanent, full-time",no,"£35,000 - £40,000 per annum",0,0,35000,40000,37500,other cities,data analyst,other,1,0,0,1
+data analyst,the wildlife trust,newark,"contract, full-time",no,"£35,000 per annum",0,0,35000,35000,35000,other cities,data analyst,other,0,1,0,0
+data analyst,harnham - data & analytics recruitment,manchester,"permanent, full-time",no,"£40,000 - £42,000 per annum",0,0,40000,42000,41000,manchester,data analyst,other,1,0,0,1
+data analyst,macildowie recruitment and retention,coventry,"permanent, full-time",no,"£30,000 - £32,000 per annum",0,0,30000,32000,31000,other cities,data analyst,other,1,0,0,1
+data analyst,harnham - data & analytics recruitment,london,"permanent, full-time",no,"£40,000 - £50,000 per annum",0,0,40000,50000,45000,london,data analyst,other,1,0,0,1
+data analyst,reed,colchester,"permanent, full-time",no,"£35,000 - £40,000 per annum, inc benefits",0,0,35000,40000,37500,other cities,data analyst,other,1,0,0,0
+data analyst,pertemps dudley west brom perms,halesowen,"permanent, full-time",no,"£28,000 - £32,000 per annum",0,0,28000,32000,30000,other cities,data analyst,other,1,0,0,0
+data analyst,harnham - data & analytics recruitment,brighton,"permanent, full-time",no,"£30,000 - £40,000 per annum",0,0,30000,40000,35000,other cities,data analyst,other,1,0,0,1
+data analyst,boston hale,city of london,"permanent, full-time",no,"£56,000 per annum",0,0,56000,56000,56000,london,data analyst,other,1,0,0,0
+data analyst,oscar technology,huddersfield,"permanent, full-time",no,"£25,000 - £35,000 per annum",0,0,25000,35000,30000,other cities,data analyst,other,1,0,0,0
+data analyst,mtrec recruitment,tyne and wear,"permanent, full-time",no,"£30,000 - £35,000 per annum",0,0,30000,35000,32500,other cities,data analyst,other,1,0,0,1
+data analyst,macildowie recruitment and retention,milton keynes,"permanent, full-time",no,"£40,000 - £42,000 per annum",0,0,40000,42000,41000,other cities,data analyst,other,1,0,0,1
+data analyst,recruit uk,liverpool,"permanent, full-time",no,"£30,000 - £36,000 per annum",0,0,30000,36000,33000,other cities,data analyst,other,1,0,0,0
+data analyst,imperial workforce,stockton-on-tees,"permanent, full-time",no,"£25,000 per annum",0,0,25000,25000,25000,other cities,data analyst,other,1,0,0,0
+data analyst,nigel frank international,gloucester,"permanent, full-time",no,"£32,000 - £38,000 per annum",0,0,32000,38000,35000,other cities,data analyst,other,1,0,0,0
+data analyst,yourrecruit group,horley,"permanent, full-time",no,"£22,000 - £24,000 per annum",0,0,22000,24000,23000,other cities,data analyst,other,1,0,0,0
+data analyst,search,dundee,"contract, full-time",no,£14.03 - £15.59 per hour,1,0,28000,32000,30000,other cities,data analyst,other,0,1,0,0
+data analyst,viqu limited,leeds,"contract, full-time",no,£400 - £500 per day,0,1,104000,130000,117000,leeds,data analyst,other,0,1,0,0
+data analyst,aspire data recruitment,nottingham,"permanent, full-time",no,"£35,000 - £45,000 per annum",0,0,35000,45000,40000,other cities,data analyst,other,1,0,0,1
+data analyst,24x7 group,little easton,"permanent, full-time",no,"£30,000 per annum, inc benefits",0,0,30000,30000,30000,other cities,data analyst,other,1,0,0,0
+data analyst,harnham - data & analytics recruitment,london,"permanent, full-time",no,"£40,000 - £45,000 per annum",0,0,40000,45000,42500,london,data analyst,other,1,0,0,1
+data analyst,west sussex county council,shoreham-by-sea,"permanent, full-time",no,"£28,371 - £31,099 per annum",0,0,28371,31099,29735,other cities,data analyst,other,1,0,0,0
+data analyst,teqniq ltd,london,"temporary, full-time",no,£19 per hour,1,0,38000,38000,38000,london,data analyst,other,0,1,0,0
+data analyst,distinct recruitment,leicester,"permanent, full-time",no,"£30,000 - £37,000 per annum",0,0,30000,37000,33500,other cities,data analyst,other,1,0,0,1
+data analyst,mrk associates,welwyn garden city,"permanent, full-time",no,"£40,000 - £50,000 per annum",0,0,40000,50000,45000,other cities,data analyst,other,1,0,0,0
+data analyst,harnham - data & analytics recruitment,manchester,"permanent, full-time",no,"£35,000 - £42,000 per annum",0,0,35000,42000,38500,manchester,data analyst,other,1,0,0,1
+data analyst,harrison holgate,london,"permanent, full-time",no,"£50,000 - £60,000 per annum",0,0,50000,60000,55000,london,data analyst,other,1,0,0,0
+data analyst,marc daniels,london,"permanent, full-time",no,"£30,000 - £35,000 per annum",0,0,30000,35000,32500,london,data analyst,other,1,0,0,0
+data analyst,march recruitment,crewe,"temporary, full-time",no,£14.50 - £14.90 per hour,1,0,28000,30000,29000,other cities,data analyst,other,0,1,0,1
+data analyst,pertemps london,city of london,"permanent, full-time",no,"£28,000 - £33,000 per annum",0,0,28000,33000,30500,london,data analyst,other,1,0,0,0
+data analyst,michael page technology,glasgow,"permanent, full-time",no,"£35,000 - £45,000 per annum",0,0,35000,45000,40000,other cities,data analyst,other,1,0,0,0
+data analyst,akton recruitment ltd,london,"contract, full-time",no,£24.64 per hour,1,0,50000,50000,50000,london,data analyst,other,0,1,0,1
+data analyst,clear it recruitment limited,guildford,"permanent, full-time",no,"£35,000 - £85,000 per annum",0,0,35000,85000,60000,other cities,data analyst,other,1,0,0,1
+data analyst,heat recruitment,city of london,"permanent, full-time",no,"£60,000 per annum",0,0,60000,60000,60000,london,data analyst,other,1,0,0,1
+data analyst,harnham - data & analytics recruitment,birmingham,"permanent, full-time",no,"£35,000 - £43,000 per annum",0,0,35000,43000,39000,birmingham,data analyst,other,1,0,0,1
+data analyst,jo holdsworth recruitment,leeds,"permanent, full-time",no,"£22,000 - £23,000 per annum",0,0,22000,23000,22500,leeds,data analyst,other,1,0,0,1
+data analyst,robert walters,london,"temporary, full-time",no,£300 - £350 per day,0,1,78000,91000,84500,london,data analyst,other,0,1,0,0
+data analyst,in technology group limited,salford,"permanent, full-time",no,"£40,000 - £50,000 per annum",0,0,40000,50000,45000,other cities,data analyst,other,1,0,0,0
+data analyst,page personnel finance,livingston,"permanent, full-time",no,"£31,000 - £39,000 per annum",0,0,31000,39000,35000,other cities,data analyst,other,1,0,0,0
+data analyst,venture recruitment partners,new milton,"permanent, full-time",no,"£30,000 - £35,000 per annum",0,0,30000,35000,32500,other cities,data analyst,other,1,0,0,1
+data analyst,proactive appointments,"hammersmith, london","permanent, full-time",no,"£60,000 - £65,000 per annum",0,0,60000,65000,62500,london,data analyst,other,1,0,0,0
+data analyst,n brown group,oldham,"permanent, full-time",no,"£26,000 - £30,000 per annum",0,0,26000,30000,28000,other cities,data analyst,other,1,0,0,0
+data analyst,understanding recruitment,london,"permanent, full-time",no,"£43,000 - £45,000 per annum, inc benefits, negotiable",0,0,43000,45000,44000,london,data analyst,other,1,0,0,1
+data analyst,anson mccade ltd - it and finance recruitment,newcastle upon tyne,"permanent, full-time",no,"£43,000 - £55,000 per annum",0,0,43000,55000,49000,other cities,data analyst,other,1,0,0,1
+data analyst,gig retail,leeds,"permanent, full-time",no,"£35,000 - £40,000 per annum",0,0,35000,40000,37500,leeds,data analyst,other,1,0,0,0
+finance data analyst,technical placements ltd,chatham,"permanent, full-time",no,"£30,000 - £34,000 per annum",0,0,30000,34000,32000,other cities,data analyst,other,1,0,0,0
+systems data analyst,lawrence harvey,london,"permanent, full-time",no,"£60,000 - £70,000 per annum",0,0,60000,70000,65000,london,data analyst,other,1,0,0,0
+data analyst,pertemps gloucester,gloucester,"permanent, full-time",no,"£28,000 per annum",0,0,28000,28000,28000,other cities,data analyst,other,1,0,0,0
+data analyst,page personnel secretarial & business support,weybridge,"permanent, full-time",no,"£28,000 - £30,000 per annum",0,0,28000,30000,29000,other cities,data analyst,other,1,0,0,0
+data analyst apprentice,qa ltd,newbury,"permanent, full-time",no,"£17,100 per annum",0,0,17100,17100,17100,other cities,data analyst,junior,1,0,0,0
+senior data analyst,harnham - data & analytics recruitment,london,"permanent, full-time",no,"£60,000 - £70,000 per annum",0,0,60000,70000,65000,london,data analyst,senior,1,0,0,1
+senior data analyst,pulse it recruitment ltd,st. albans,"permanent, full-time",no,"£35,000 - £50,000 per annum, inc benefits, negotiable",0,0,35000,50000,42500,other cities,data analyst,senior,1,0,0,1
+digital data analyst,data idols,london,"permanent, full-time",no,"£55,000 - £60,000 per annum",0,0,55000,60000,57500,london,data analyst,other,1,0,0,0
+graduate data analyst,harnham - data & analytics recruitment,london,"permanent, full-time",no,"£25,000 - £30,000 per annum",0,0,25000,30000,27500,london,data analyst,junior,1,0,0,1
+senior data analyst,allstaff recruitment,stanford-le-hope,"permanent, full-time",no,"£35,000 - £40,000 per annum",0,0,35000,40000,37500,other cities,data analyst,senior,1,0,0,1
+business data analyst,eames consulting,london,"contract, full-time",no,£550 - £600 per day,0,1,143000,156000,149500,london,data analyst,other,0,1,0,0
+senior data analyst,data idols,london,"permanent, full-time",no,"£55,000 - £60,000 per annum",0,0,55000,60000,57500,london,data analyst,senior,1,0,0,0
+commercial  data analyst,recruit4staff (wrexham) ltd,st. asaph,"permanent, full-time",no,"£26,000 - £26,500 per annum",0,0,26000,26500,26250,other cities,data analyst,other,1,0,0,0
+senior data analyst,nottingham community housing association,nottingham,"permanent, full-time",no,"£36,753 - £41,373 per annum",0,0,36753,41373,39063,other cities,data analyst,senior,1,0,0,0
+senior data analyst,the people network,london,"permanent, full-time",no,"£50,000 - £65,000 per annum",0,0,50000,65000,57500,london,data analyst,senior,1,0,0,0
+hr data analyst,reed,peterborough,"permanent, full-time",no,"£40,000 - £45,000 per annum, inc benefits",0,0,40000,45000,42500,other cities,data analyst,other,1,0,0,0
+senior data analyst,harnham - data & analytics recruitment,london,"permanent, full-time",no,"£50,000 - £70,000 per annum",0,0,50000,70000,60000,london,data analyst,senior,1,0,0,1
+hr data analyst,macmillan davies,london,"permanent, full-time",no,"£50,000 - £55,000 per annum",0,0,50000,55000,52500,london,data analyst,other,1,0,0,0
+senior data analyst,avanti,horsham,"permanent, full-time",no,"£55,000 - £60,000 per annum",0,0,55000,60000,57500,other cities,data analyst,senior,1,0,0,0
+senior data analyst,cathcart technology,manchester,"permanent, full-time",no,"£42,000 - £45,000 per annum",0,0,42000,45000,43500,manchester,data analyst,senior,1,0,0,0
+hr data analyst,bct resourcing,london,"permanent, full-time",no,"£50,000 - £55,000 per annum",0,0,50000,55000,52500,london,data analyst,other,1,0,0,0
+junior data analyst,new london hr,canary wharf,"permanent, full-time",no,"£55,000 - £65,000 per annum, ote, inc benefits, pro-rata, negotiable",0,0,55000,65000,60000,other cities,data analyst,junior,1,0,0,0
+technical data analyst,lynx recruitment ltd,london,"permanent, full-time",no,"£50,000 - £65,000 per annum",0,0,50000,65000,57500,london,data analyst,other,1,0,0,1
+data analyst hybrid,hays specialist recruitment limited,colchester,"permanent, full-time",no,"£35,000 - £40,000 per annum",0,0,35000,40000,37500,other cities,data analyst,other,1,0,0,1
+senior data analyst,harnham - data & analytics recruitment,manchester,"permanent, full-time",no,"£35,000 - £45,000 per annum",0,0,35000,45000,40000,manchester,data analyst,senior,1,0,0,1
+automotive data analyst,theo jones recruitment limited,croydon,"permanent, full-time",no,"£50,000 - £60,000 per annum",0,0,50000,60000,55000,other cities,data analyst,other,1,0,0,1
+data analyst bi,randstad technologies,middlesbrough,"permanent, full-time",no,"£40,000 - £45,000 per annum",0,0,40000,45000,42500,other cities,data analyst,other,1,0,0,0
+finance data analyst,hays specialist recruitment limited,birmingham,"permanent, full-time",no,"£25,000 - £35,000 per annum",0,0,25000,35000,30000,birmingham,data analyst,other,1,0,0,1
+principal data analyst,cathcart technology,manchester,"permanent, full-time",no,"£47,000 - £51,000 per annum",0,0,47000,51000,49000,manchester,data analyst,other,1,0,0,0
+junior data analyst,viqu limited,southampton,"permanent, full-time",no,"£27,000 - £35,000 per annum",0,0,27000,35000,31000,other cities,data analyst,junior,1,0,0,0
+maintenance data analyst,acorn by synergie,exeter,"contract, full-time",no,"£27,000 - £30,264 per annum",0,0,27000,30264,28632,other cities,data analyst,other,0,1,0,0
+property data analyst,cobalt recruitment,london,"contract, full-time",no,"£35,000 - £40,000 per annum",0,0,35000,40000,37500,london,data analyst,other,0,1,0,1
+hr data analyst,reed,andover,"contract, full-time",work from home,"£14.35 - £15.40 per hour, inc benefits",1,0,28000,30000,29000,other cities,data analyst,other,0,1,1,0
+hr data analyst,reed,bournemouth,"contract, full-time",work from home,"£14.35 - £15.40 per hour, inc benefits",1,0,28000,30000,29000,other cities,data analyst,other,0,1,1,0
+marketing data analyst,rocking zebra,swindon,"permanent, full-time",no,"£25,000 - £28,000 per annum",0,0,25000,28000,26500,other cities,data analyst,other,1,0,0,0
+senior data analyst,michelle denny recruitment,diss,"permanent, full-time",work from home,"£40,000 - £44,000 per annum",0,0,40000,44000,42000,other cities,data analyst,senior,1,0,1,1
+commerce data analyst,trust in soda,london,"contract, full-time",work from home,£250 - £255 per day,0,1,65000,66300,65650,london,data analyst,other,0,1,1,0
+hr data analyst,reed,salisbury,"contract, full-time",work from home,"£14.35 - £15.40 per hour, inc benefits",1,0,28000,30000,29000,other cities,data analyst,other,0,1,1,0
+senior data analyst,harnham - data & analytics recruitment,manchester,"permanent, full-time",no,"£35,000 - £42,000 per annum",0,0,35000,42000,38500,manchester,data analyst,senior,1,0,0,1
+senior data analyst,microtech global ltd,london,"permanent, full-time",no,"£80,000 - £100,000 per annum",0,0,80000,100000,90000,london,data analyst,senior,1,0,0,0
+data business analyst,huxley,london,"permanent, full-time",no,"£40,000 - £75,000 per annum",0,0,40000,75000,57500,london,business analyst,other,1,0,0,0
+portfolio data analyst,uk atomic energy authority,abingdon,"permanent, full-time",work from home,"£46,293 per annum",0,0,46293,46293,46293,other cities,data analyst,other,1,0,1,0
+transformation data analyst,harrison holgate,london,"permanent, full-time",no,"£80,000 - £90,000 per annum",0,0,80000,90000,85000,london,data analyst,other,1,0,0,0
+commercial data analyst,hays specialist recruitment limited,london,"permanent, full-time",no,"£50,000 - £60,000 per annum",0,0,50000,60000,55000,london,data analyst,other,1,0,0,1
+senior data analyst,harnham - data & analytics recruitment,high wycombe,"permanent, full-time",no,"£50,000 - £60,000 per annum",0,0,50000,60000,55000,other cities,data analyst,senior,1,0,0,1
+business data analyst,sanderson,london,"contract, full-time",no,£600 - £650 per day,0,1,156000,169000,162500,london,data analyst,other,0,1,0,0
+data analyst / data manager,4square recruitment ltd,reading,"permanent, full-time",no,"£25,000 - £35,000 per annum",0,0,25000,35000,30000,other cities,data analyst,other,1,0,0,1
+junior data analyst,inspiring interns & graduates,london,"permanent, full-time",no,"£25,000 - £30,000 per annum",0,0,25000,30000,27500,london,data analyst,junior,1,0,0,0
+senior data analyst,harnham - data & analytics recruitment,nottingham,"permanent, full-time",no,"£50,000 - £70,000 per annum",0,0,50000,70000,60000,other cities,data analyst,senior,1,0,0,1
+risk data analyst,hays specialist recruitment limited,london,"permanent, full-time",no,"£55,000 - £75,000 per annum",0,0,55000,75000,65000,london,data analyst,other,1,0,0,1
+senior data analyst,nigel frank international,swansea,"permanent, full-time",no,"£55,000 - £65,000 per annum",0,0,55000,65000,60000,other cities,data analyst,senior,1,0,0,0
+senior data analyst,nigel frank international,edinburgh,"permanent, full-time",no,"£55,000 - £65,000 per annum",0,0,55000,65000,60000,other cities,data analyst,senior,1,0,0,0
+senior data analyst,nigel frank international,maidstone,"permanent, full-time",no,"£55,000 - £65,000 per annum",0,0,55000,65000,60000,other cities,data analyst,senior,1,0,0,0
+senior data analyst,nigel frank international,chelmsford,"permanent, full-time",no,"£55,000 - £65,000 per annum",0,0,55000,65000,60000,other cities,data analyst,senior,1,0,0,0
+senior data analyst,nigel frank international,norwich,"permanent, full-time",no,"£55,000 - £65,000 per annum",0,0,55000,65000,60000,other cities,data analyst,senior,1,0,0,0
+senior data analyst,nigel frank international,coventry,"permanent, full-time",no,"£55,000 - £65,000 per annum",0,0,55000,65000,60000,other cities,data analyst,senior,1,0,0,0
+senior data analyst,nigel frank international,cambridge,"permanent, full-time",no,"£55,000 - £65,000 per annum",0,0,55000,65000,60000,other cities,data analyst,senior,1,0,0,0
+system data analyst,castlefield recruitment,leyland,"permanent, full-time",no,"£31,000 - £34,000 per annum",0,0,31000,34000,32500,other cities,data analyst,other,1,0,0,1
+senior data analyst,nigel frank international,bournemouth,"permanent, full-time",no,"£55,000 - £65,000 per annum",0,0,55000,65000,60000,other cities,data analyst,senior,1,0,0,0
+senior data analyst,nigel frank international,manchester,"permanent, full-time",no,"£55,000 - £65,000 per annum",0,0,55000,65000,60000,manchester,data analyst,senior,1,0,0,0
+senior data analyst,nigel frank international,birmingham,"permanent, full-time",no,"£55,000 - £65,000 per annum",0,0,55000,65000,60000,birmingham,data analyst,senior,1,0,0,0
+lead data analyst,nigel frank international,cambridge,"permanent, full-time",no,"£50,000 - £65,000 per annum",0,0,50000,65000,57500,other cities,data analyst,senior,1,0,0,0
+lead data analyst,nigel frank international,northampton,"permanent, full-time",no,"£50,000 - £65,000 per annum",0,0,50000,65000,57500,other cities,data analyst,senior,1,0,0,0
+lead data analyst,nigel frank international,cardiff,"permanent, full-time",no,"£50,000 - £65,000 per annum",0,0,50000,65000,57500,other cities,data analyst,senior,1,0,0,0
+lead data analyst,nigel frank international,bristol,"permanent, full-time",no,"£50,000 - £65,000 per annum",0,0,50000,65000,57500,other cities,data analyst,senior,1,0,0,0
+lead data analyst,nigel frank international,plymouth,"permanent, full-time",no,"£50,000 - £65,000 per annum",0,0,50000,65000,57500,other cities,data analyst,senior,1,0,0,0
+lead data analyst,nigel frank international,bournemouth,"permanent, full-time",no,"£50,000 - £65,000 per annum",0,0,50000,65000,57500,other cities,data analyst,senior,1,0,0,0
+lead data analyst,nigel frank international,swindon,"permanent, full-time",no,"£50,000 - £65,000 per annum",0,0,50000,65000,57500,other cities,data analyst,senior,1,0,0,0
+lead data analyst,nigel frank international,oxford,"permanent, full-time",no,"£50,000 - £65,000 per annum",0,0,50000,65000,57500,other cities,data analyst,senior,1,0,0,0
+principal data analyst,leaders in care,"theale, reading","permanent, full-time",no,"£65,000 per annum",0,0,65000,65000,65000,other cities,data analyst,other,1,0,0,0
+data business analyst,grosvenor consulting ltd,south london,"permanent, full-time",no,"£37,000 - £40,000 per annum, negotiable",0,0,37000,40000,38500,london,business analyst,other,1,0,0,0
+junior data analyst,thinking search,birmingham,"contract, full-time",no,"£22,000 - £24,000 per annum",0,0,22000,24000,23000,birmingham,data analyst,junior,0,1,0,0
+data analyst apprentice,multiverse,east london,"permanent, full-time",no,"£23,000 per annum",0,0,23000,23000,23000,london,data analyst,junior,1,0,0,0
+hr data analyst,james gray associates,birmingham,"permanent, full-time",no,"£30,000 - £35,000 per annum",0,0,30000,35000,32500,birmingham,data analyst,other,1,0,0,0
+data analyst / data administrator,arc it recruitment,city of london,"permanent, full-time",no,"£30,000 - £37,000 per annum",0,0,30000,37000,33500,london,data analyst,other,1,0,0,1
+insurance data analyst,goodman masson,london,"contract, full-time",no,"£25,000 per annum",0,0,25000,25000,25000,london,data analyst,other,0,1,0,0
+temporary data analyst,sewell wallis,leeds,"temporary, full-time",no,"£22,000 - £30,000 per annum",0,0,22000,30000,26000,leeds,data analyst,other,0,1,0,0
+junior data analyst,i2i recruitment consultancy,bishops cleeve,"permanent, full-time",no,"£21,255 per annum",0,0,21255,21255,21255,other cities,data analyst,junior,1,0,0,1
+market data analyst,additional resources ltd,london,"permanent, full-time",work from home,"£50,000 - £750,000 per annum",0,0,50000,750000,400000,london,data analyst,other,1,0,1,0
+business data analyst,castlefield recruitment,salford,"permanent, full-time",no,"£50,000 - £55,000 per annum",0,0,50000,55000,52500,other cities,data analyst,other,1,0,0,1
+senior data analyst,hays specialist recruitment limited,london,"permanent, full-time",no,"£55,000 - £75,000 per annum",0,0,55000,75000,65000,london,data analyst,senior,1,0,0,1
+business data analyst,hays specialist recruitment limited,glasgow,"permanent, full-time",no,"£60,000 - £70,000 per annum",0,0,60000,70000,65000,other cities,data analyst,other,1,0,0,1
+packaging and data analyst,adecco,lutterworth,"permanent, full-time",no,"£25,000 per annum",0,0,25000,25000,25000,other cities,data analyst,other,1,0,0,0
+e-commerce data analyst,minsterfb,southwell,"permanent, full-time",no,"£23,000 per annum",0,0,23000,23000,23000,other cities,data analyst,other,1,0,0,0
+senior data analyst,martyn gerrard,finchley,"permanent, full-time",no,"£45,000 - £50,000 per annum",0,0,45000,50000,47500,other cities,data analyst,senior,1,0,0,0
+junior data analyst,tapestry research,london,"permanent, full-time",no,"£23,000 - £25,000 per annum",0,0,23000,25000,24000,london,data analyst,junior,1,0,0,0
+data analyst / administrator,dynamite recruitment solutions ltd,chandler's ford,"contract, full-time",no,"£24,999 - £25,000 per annum",0,0,24999,25000,25000,other cities,data analyst,other,0,1,0,1
+data analyst - 013440,pontoon,warwick,"contract, full-time",no,"£28,200 - £32,500 per annum",0,0,28200,32500,30350,other cities,data analyst,other,0,1,0,0
+senior data analyst,heat recruitment,reading,"contract, full-time",work from home,£66 per hour,1,0,132000,132000,132000,other cities,data analyst,senior,0,1,1,1
+data analyst - media,reilly people,london,"permanent, full-time",no,"£40,000 - £45,000 per annum",0,0,40000,45000,42500,london,data analyst,other,1,0,0,0
+graduate data analyst,agility,chester,"permanent, full-time",no,"£21,000 - £27,000 per annum",0,0,21000,27000,24000,other cities,data analyst,junior,1,0,0,0
+graduate data analyst,agility,warrington,"permanent, full-time",no,"£21,000 - £27,000 per annum",0,0,21000,27000,24000,other cities,data analyst,junior,1,0,0,0
+graduate data analyst,agility,manchester,"permanent, full-time",no,"£21,000 - £27,000 per annum",0,0,21000,27000,24000,manchester,data analyst,junior,1,0,0,0
+data analyst - hr,randstad technologies,maidenhead,"permanent, full-time",no,£13 - £15 per hour,1,0,26000,30000,28000,other cities,data analyst,other,1,0,0,0
+finance analyst / data analyst,lhh recruitment solutions,oxford,"permanent, full-time",no,"£40,000 - £45,000 per annum",0,0,40000,45000,42500,other cities,data analyst,other,1,0,0,1
+strategic development data analyst,robert walters,manchester,"permanent, full-time",no,"£35,000 - £40,000 per annum",0,0,35000,40000,37500,manchester,data analyst,other,1,0,0,0
+modeller & data analyst,cirrus selection limited,bristol,"permanent, full-time",no,"£40,000 - £55,000 per annum",0,0,40000,55000,47500,other cities,data analyst,other,1,0,0,0
+business & data analyst,nrg plc,gateshead,"contract, full-time",no,"£30,000 - £35,000 per annum",0,0,30000,35000,32500,other cities,data analyst,other,0,1,0,0
+graduate data analyst,agility,liverpool,"permanent, full-time",no,"£21,000 - £26,000 per annum",0,0,21000,26000,23500,other cities,data analyst,junior,1,0,0,0
+data analyst - alteryx,executive facilities,london,"contract, full-time",no,"£52,000 - £58,000 per annum",0,0,52000,58000,55000,london,data analyst,other,0,1,0,0
+bi reporting analyst / data analyst,delaney & bourton,durham,"permanent, full-time",no,"£40,000 - £45,000 per annum",0,0,40000,45000,42500,other cities,data analyst,other,1,0,0,0
+data analyst - security cleared,concept resourcing,london,"contract, full-time",no,£500 - £575 per day,0,1,130000,149500,139750,london,data analyst,other,0,1,0,0
+senior data business analyst,harnham - data & analytics recruitment,london,"contract, full-time",no,£500 - £600 per day,0,1,130000,156000,143000,london,business analyst,senior,0,1,0,1
+senior risk data analyst,goodman masson,london,"permanent, full-time",no,"£92,000 - £95,000 per annum",0,0,92000,95000,93500,london,data analyst,senior,1,0,0,0
+project control data analyst,intec select limited,london,"permanent, full-time",no,"£50,000 - £60,000 per annum",0,0,50000,60000,55000,london,data analyst,other,1,0,0,0
+digital marketing data analyst,elevation recruitment group,goole,"permanent, full-time",no,"£35,000 - £40,000 per annum",0,0,35000,40000,37500,other cities,data analyst,other,1,0,0,1
+quadient inspire data analyst,oscar technology,leeds,"permanent, full-time",no,"£30,000 - £40,000 per annum",0,0,30000,40000,35000,leeds,data analyst,other,1,0,0,0
+hr people data analyst,macmillan davies,london,"permanent, full-time",no,"£50,000 per annum",0,0,50000,50000,50000,london,data analyst,other,1,0,0,0
+senior reinsurance data analyst,oliver james,london,"permanent, full-time",no,"£50,000 - £65,000 per annum",0,0,50000,65000,57500,london,data analyst,senior,1,0,0,0
+pricing data analyst python,high finance (uk) limited t/a hfg,london,"permanent, full-time",no,"£50,000 - £70,000 per annum",0,0,50000,70000,60000,london,data analyst,other,1,0,0,0
+senior business analyst data,harrison holgate,london,"permanent, full-time",no,"£80,000 per annum",0,0,80000,80000,80000,london,business analyst,senior,1,0,0,0
+business operations data analyst,pimento connection,hounslow,"contract, full-time",no,£400 - £600 per day,0,1,104000,156000,130000,other cities,data analyst,other,0,1,0,0
+consumer research data analyst,lorien,london,"permanent, full-time",no,"£35,000 - £50,000 per annum",0,0,35000,50000,42500,london,data analyst,other,1,0,0,0
+data engineering analyst,high finance (uk) limited t/a hfg,london,"permanent, full-time",no,"£50,000 - £60,000 per annum",0,0,50000,60000,55000,london,data engineer,other,1,0,0,0
+data analyst apprentice,qa ltd,newcastle upon tyne,"permanent, full-time",no,"£18,000 per annum",0,0,18000,18000,18000,other cities,data analyst,junior,1,0,0,0
+operations / data analyst,phillips grant ltd,borehamwood,"permanent, full-time",no,"£55,000 - £70,000 per annum",0,0,55000,70000,62500,other cities,data analyst,other,1,0,0,0
+data analyst apprentice,qa ltd,stafford,"permanent, full-time",no,"£16,000 - £22,000 per annum",0,0,16000,22000,19000,other cities,data analyst,junior,1,0,0,0
+graduate data analyst apprentice,qa ltd,temple meads,"permanent, full-time",no,"£27,000 per annum",0,0,27000,27000,27000,other cities,data analyst,junior,1,0,0,0
+investment data analyst,high finance (uk) limited t/a hfg,london,"permanent, full-time",no,"£70,000 - £80,000 per annum",0,0,70000,80000,75000,london,data analyst,other,1,0,0,0
+senior data analyst,pure resourcing solutions,st. albans,"permanent, full-time",no,"£40,000 - £50,000 per annum",0,0,40000,50000,45000,other cities,data analyst,senior,1,0,0,0
+data analyst apprentice,qa ltd,north west industrial estate,"permanent, full-time",no,"£15,500 per annum",0,0,15500,15500,15500,other cities,data analyst,junior,1,0,0,0
+hr systems and data analyst,focus recruit,borehamwood,"permanent, full-time",no,"£42,000 - £43,000 per annum",0,0,42000,43000,42500,other cities,data analyst,other,1,0,0,0
+data analyst - sustainability exp,lorien,london,"contract, full-time",no,£38 per hour,1,0,76000,76000,76000,london,data analyst,other,0,1,0,0
+data analyst - purchase orders,akkodis,london,"contract, full-time",work from home,£12 - £13.81 per hour,1,0,24000,28000,26000,london,data analyst,other,0,1,1,0
+data analyst - social housing,howells solutions,london,"permanent, full-time",no,"£50,000 - £53,000 per annum",0,0,50000,53000,51500,london,data analyst,other,1,0,0,0
+business analyst / data analyst - sustainability,bpm tech,edinburgh,"permanent, full-time",no,"£30,000 - £35,000 per annum",0,0,30000,35000,32500,other cities,data analyst,other,1,0,0,0
+recruitment data analyst & administrator,gregory martin international,knutsford,"permanent, full-time",no,"£30,000 - £55,000 per annum",0,0,30000,55000,42500,other cities,data analyst,other,1,0,0,0
+data analyst - sales operations,executive facilities,south london,"contract, full-time",no,"£50,000 - £57,500 per annum",0,0,50000,57500,53750,london,data analyst,other,0,1,0,0
+underwriting operations data analyst,mbf.,london,"permanent, full-time",no,"£40,000 - £60,000 per annum",0,0,40000,60000,50000,london,data analyst,other,1,0,0,0
+supply chain data analyst,caresoft global ltd,gaydon,"contract, full-time",no,£16.80 - £21.88 per hour,1,0,34000,44000,39000,other cities,data analyst,other,0,1,0,0
+data analyst - component engineering,advantage resourcing,stevenage,"contract, full-time",work from home,£38.95 per hour,1,0,78000,78000,78000,other cities,data analyst,other,0,1,1,0
+data analyst global luxury retailer,robert half,london,"permanent, full-time",no,"£35,000 - £50,000 per annum",0,0,35000,50000,42500,london,data analyst,other,1,0,0,0
+marketing data analyst marketing agency},ernest gordon recruitment limited,manchester,"permanent, full-time",no,"£50,000 - £65,000 per annum",0,0,50000,65000,57500,manchester,data analyst,other,1,0,0,1
+data analyst power bi. dax,adria solutions ltd,manchester,"permanent, full-time",work from home,"£40,000 - £50,000 per annum",0,0,40000,50000,45000,manchester,data analyst,other,1,0,1,0
+marketing & sales data analyst,clear it recruitment limited,heathrow,"permanent, full-time",no,"£24,000 - £32,000 per annum",0,0,24000,32000,28000,other cities,data analyst,other,1,0,0,1
+interim data analyst team leader,sewell wallis,leeds,"temporary, full-time",no,"£30,000 - £35,000 per annum",0,0,30000,35000,32500,leeds,data analyst,senior,0,1,0,0
+data analyst - commercial / pricing,oscar technology,warrington,"permanent, full-time",no,"£45,000 - £55,000 per annum",0,0,45000,55000,50000,other cities,data analyst,other,1,0,0,0
+business analyst - data governance,ventula consulting limited,cambridge,"contract, full-time",no,£300 per day,0,1,78000,78000,78000,other cities,business analyst,other,0,1,0,0
+senior business analyst  data warehouse,huxley,london,"permanent, full-time",no,"£40,000 - £75,000 per annum",0,0,40000,75000,57500,london,business analyst,senior,1,0,0,0
+business and data analyst apprentice,qa ltd,ermine business park,"permanent, full-time",no,"£21,000 - £26,000 per annum",0,0,21000,26000,23500,other cities,data analyst,junior,1,0,0,0
+systems manager and data analyst,carnegie consulting ltd,manchester,"permanent, full-time",no,"£35,000 - £40,000 per annum",0,0,35000,40000,37500,manchester,data analyst,other,1,0,0,0
+fund services and data analyst associate,page personnel finance,london,"permanent, full-time",no,"£35,000 - £45,000 per annum",0,0,35000,45000,40000,london,data analyst,other,1,0,0,0
+data analyst - hybrid - £45k,pearson carter,london,"permanent, full-time",no,"£35,000 - £45,000 per annum",0,0,35000,45000,40000,london,data analyst,other,1,0,0,0
+data analyst - permanent - remote,databuzz ltd,london,"permanent, full-time",work from home,"£25,000 - £30,000 per annum",0,0,25000,30000,27500,london,data analyst,other,1,0,1,0
+data analyst sql/excel amazing airline!-heathrow,robert half,london,"permanent, full-time",no,"£26,000 - £35,000 per annum",0,0,26000,35000,30500,london,data analyst,other,1,0,0,0
+interim business data analyst - logistics,bis henderson,northampton,"contract, full-time",work from home,£300 - £450 per day,0,1,78000,117000,97500,other cities,data analyst,other,0,1,1,0
+senior business analyst - data governance,ventula consulting limited,cambridge,"contract, full-time",no,£450 per day,0,1,117000,117000,117000,other cities,business analyst,senior,0,1,0,0
+finance data analyst - maternity cover,page personnel finance,hatfield,"contract, full-time",no,"£50,000 - £55,000 per annum",0,0,50000,55000,52500,other cities,data analyst,other,0,1,0,0
+senior data analyst - supply chain,akkodis,london,"contract, full-time",work from home,£300 - £350 per day,0,1,78000,91000,84500,london,data analyst,senior,0,1,1,0
+graduate data analyst - manchester - £24k,oscar technology,manchester,"permanent, full-time",no,"£18,000 - £25,000 per annum",0,0,18000,25000,21500,manchester,data analyst,junior,1,0,0,0
+graduate data analyst - manchester - £24k,oscar technology,manchester,"permanent, full-time",no,"£19,000 - £24,000 per annum",0,0,19000,24000,21500,manchester,data analyst,junior,1,0,0,0
+data analyst - power bi & sql,rutherford briant,wickford,"permanent, full-time",no,"£35,000 - £45,000 per annum",0,0,35000,45000,40000,other cities,data analyst,other,1,0,0,0
+group data analyst - sheffield / hybrid,elevation recruitment group,sheffield,"permanent, full-time",no,"£40,000 - £45,000 per annum",0,0,40000,45000,42500,other cities,data analyst,other,1,0,0,1
+business analyst - data & analysis,counter terrorism police,west brompton,"permanent, full-time",no,"£39,469 - £47,089 per annum",0,0,39469,47089,43279,other cities,business analyst,other,1,0,0,0
+business data analyst - mdm -  insurance,sanderson,london,"contract, full-time",no,£600 - £650 per day,0,1,156000,169000,162500,london,data analyst,other,0,1,0,0
+data analyst - specialist market research group,resources group,london,"permanent, full-time",no,"£28,000 - £36,000 per annum",0,0,28000,36000,32000,london,data analyst,other,1,0,0,0
+principal business data analyst uk wide,intuita,london,"permanent, full-time or part-time",no,"£60,000 - £90,000 per annum",0,0,60000,90000,75000,london,data analyst,other,1,0,0,0
+data analyst / operations assistant manager,phillips grant ltd,borehamwood,"permanent, full-time",no,"£35,000 - £45,000 per annum",0,0,35000,45000,40000,other cities,data analyst,other,1,0,0,0
+bi / data analyst hybrid,cactus search,derbyshire,"permanent, full-time",no,"£35,000 - £40,000 per annum",0,0,35000,40000,37500,other cities,data analyst,other,1,0,0,0
+data / power bi analyst - consultant,anson mccade ltd - it and finance recruitment,newcastle upon tyne,"permanent, full-time",no,"£43,000 - £55,000 per annum",0,0,43000,55000,49000,other cities,other,other,1,0,0,1
+"senior data analyst - £60,000 - edinburgh hybrid",in technology group limited,edinburgh,"permanent, full-time",no,"£50,000 - £60,000 per annum",0,0,50000,60000,55000,other cities,data analyst,senior,1,0,0,0
+master data specialist - finance systems analyst,gleeson recruitment group,west bromwich,"permanent, full-time",no,"£30,000 - £45,000 per annum",0,0,30000,45000,37500,other cities,other,other,1,0,0,1
+royalties & data analyst  hyper-growth music business,harmonic group ltd,london,"permanent, full-time",no,"£50,000 - £60,000 per annum",0,0,50000,60000,55000,london,data analyst,other,1,0,0,0
+early careers - data analyst (it) graduate,rochdale boroughwide housing,rochdale,"contract, full-time",no,"£24,500 - £26,000 per annum",0,0,24500,26000,25250,other cities,data analyst,junior,0,1,0,0
+junior data analyst  sql - merseyside - £27k,oscar technology,st. helens,"permanent, full-time",no,"£20,000 - £27,000 per annum",0,0,20000,27000,23500,other cities,data analyst,junior,1,0,0,0
+sc cleared data analyst  hybrid  london  outside ir35,sr2,london,"contract, full-time",no,£450 - £500 per day,0,1,117000,130000,123500,london,data analyst,other,0,1,0,0
+business data analyst - mdm - london markets insurance,sanderson,london,"contract, full-time",no,£600 - £650 per day,0,1,156000,169000,162500,london,data analyst,other,0,1,0,0
+data analyst assistant - part time flexible hours,reed,tadcaster,"permanent, part-time",no,"£23,000 per annum, inc benefits",0,0,23000,23000,23000,other cities,data analyst,other,1,0,0,0
+"billings data analyst - growing, pe backed business",pratap partnership ltd,wakefield,"permanent, full-time",no,"£30,000 - £33,000 per annum",0,0,30000,33000,31500,other cities,data analyst,other,1,0,0,0
+data security business analyst outside ir35 & remote,la fosse,london,"contract, full-time",no,£500 - £600 per day,0,1,130000,156000,143000,london,business analyst,other,0,1,0,0
+data analyst / feature configuration engineer,caresoft global ltd,gaydon,"contract, full-time",no,£17.51 - £22.84 per hour,1,0,36000,46000,41000,other cities,data analyst,other,0,1,0,0
+sc cleared fraud data analyst  outside ir35  6 months,sr2,london,"contract, full-time",no,£450 - £550 per day,0,1,117000,143000,130000,london,data analyst,other,0,1,0,0
+part time data analyst power bi 3 month contract,office angels,kingston upon thames,"contract, part-time",no,£15 - £20 per hour,1,0,30000,40000,35000,other cities,data analyst,other,0,1,0,0
+data analyst - remote - £500 per day - 6 month contract,involved solutions,london,"permanent, full-time",work from home,£450 - £550 per day,0,1,117000,143000,130000,london,data analyst,other,1,0,1,0
+commercial/data analyst,si recruitment,ripon,"permanent, full-time",no,"£35,000 - £42,000 per annum",0,0,35000,42000,38500,other cities,data analyst,other,1,0,0,1
+data analyst/administrator,pertemps glasgow perms,glasgow,"permanent, full-time",no,"£25,000 per annum",0,0,25000,25000,25000,other cities,data analyst,other,1,0,0,0
+hr data analyst 6 - 12 month maternity cover,trinity resource solutions,windsor,"contract, full-time",no,"£50,000 - £60,000 per annum",0,0,50000,60000,55000,other cities,data analyst,other,0,1,0,0
+data-driven business analyst,digital waffle,nottingham,"permanent, full-time",no,"£55,000 per annum",0,0,55000,55000,55000,other cities,business analyst,other,1,0,0,0
+"data business analyst, insurance",arc it recruitment,city of london,"permanent, full-time",no,"£80,000 per annum, ote, inc benefits",0,0,80000,80000,80000,london,business analyst,other,1,0,0,1
+"data analysts - sql, python exp",lorien,milton keynes,"contract, full-time",no,£500 per day,0,1,130000,130000,130000,other cities,data analyst,other,0,1,0,0
+business analyst: data transformation,investigo,london,"contract, full-time",no,£650 - £750 per day,0,1,169000,195000,182000,london,business analyst,other,0,1,0,0
+"business analyst, data migration, sharepoint",arc it recruitment,city of london,"permanent, full-time",no,£550 per day,0,1,143000,143000,143000,london,business analyst,other,1,0,0,1
+"reporting analyst, data analyst, insurance, python, r, powerbi, cor5170",corriculo ltd,london,"permanent, full-time",no,"£50,000 - £60,000 per annum",0,0,50000,60000,55000,london,data analyst,other,1,0,0,0
+senior analyst,io sphere,city of london,"permanent, full-time or part-time",no,"£40,000 - £70,000 per annum",0,0,40000,70000,55000,london,other,senior,1,0,0,0
+hybrid business analyst,brook street,cambridgeshire,"temporary, full-time",no,£17.89 per hour,1,0,36000,36000,36000,other cities,business analyst,other,0,1,0,0
+business analyst,deerfoot it resources ltd,london,"permanent, full-time",no,"£50,000 per annum",0,0,50000,50000,50000,london,business analyst,other,1,0,0,0
+senior analyst,gregory martin international,winchester,"permanent, full-time",work from home,"£40,000 - £60,000 per annum",0,0,40000,60000,50000,other cities,other,senior,1,0,1,0
+senior analyst consultant,gregory martin international,winchester,"permanent, full-time",work from home,"£40,000 - £60,000 per annum",0,0,40000,60000,50000,other cities,other,senior,1,0,1,0
+senior analyst consultant,gregory martin international,winchester,"permanent, full-time",work from home,"£40,000 - £50,000 per annum",0,0,40000,50000,45000,other cities,other,senior,1,0,1,0
+senior analyst consultant,gregory martin international,winchester,"permanent, full-time",work from home,"£40,000 - £55,000 per annum",0,0,40000,55000,47500,other cities,other,senior,1,0,1,0
+senior analyst consultant,gregory martin international,winchester,"permanent, full-time",no,"£40,000 - £60,000 per annum",0,0,40000,60000,50000,other cities,other,senior,1,0,0,0
+senior analyst,gregory martin international,winchester,"permanent, full-time",work from home,"£35,000 - £50,000 per annum",0,0,35000,50000,42500,other cities,other,senior,1,0,1,0
+senior analyst / consultant,gregory martin international,winchester,"permanent, full-time",work from home,"£30,000 - £60,000 per annum",0,0,30000,60000,45000,other cities,other,senior,1,0,1,0
+business analyst,harnham - data & analytics recruitment,london,"permanent, full-time",no,"£35,000 - £45,000 per annum",0,0,35000,45000,40000,london,business analyst,other,1,0,0,1
+part time temp business analyst,office angels,kingston upon thames,"temporary, full-time",no,£15 - £20 per hour,1,0,30000,40000,35000,other cities,business analyst,other,0,1,0,0
+business intelligence developer,betechnology group limited,manchester,"permanent, full-time",no,"£40,000 - £55,000 per annum",0,0,40000,55000,47500,manchester,other,other,1,0,0,0
+datawarehouse business analyst,huxley,london,"permanent, full-time",no,"£40,000 - £75,000 per annum",0,0,40000,75000,57500,london,business analyst,other,1,0,0,0
+business intelligence business analyst,betechnology group limited,oxfordshire,"permanent, full-time",no,"£60,000 - £70,000 per annum, inc benefits",0,0,60000,70000,65000,other cities,business analyst,other,1,0,0,0
+examinations officer and data manager,st andrews,leatherhead,"permanent, full-time",no,"£33,702 - £37,102 per annum",0,0,33702,37102,35402,other cities,other,other,1,0,0,0
+business intelligence analyst,concept resourcing,london,"permanent, full-time",no,"£40,000 - £50,000 per annum",0,0,40000,50000,45000,london,other,other,1,0,0,0
+retail data scientist,elliot marsh,london,"permanent, full-time",work from home,"£50,000 - £70,000 per annum",0,0,50000,70000,60000,london,data scientist,other,1,0,1,0
+business analyst - hybrid - manchester - £35k,pearson carter,manchester,"permanent, full-time",no,"£30,000 - £45,000 per annum",0,0,30000,45000,37500,manchester,business analyst,other,1,0,0,0
+data engineer,yolk recruitment ltd,cheltenham,"contract, full-time",no,£600 - £700 per day,0,1,156000,182000,169000,other cities,data engineer,other,0,1,0,1
+technical business analyst,hays specialist recruitment limited,southampton,"permanent, full-time",no,"£75,000 - £85,000 per annum",0,0,75000,85000,80000,other cities,business analyst,other,1,0,0,1
+senior analyst modeller,gregory martin international,winchester,"permanent, full-time",no,"£40,000 - £60,000 per annum",0,0,40000,60000,50000,other cities,other,senior,1,0,0,0
+data engineer,ncounter,london,"permanent, full-time",no,"£80,000 - £100,000 per annum, negotiable",0,0,80000,100000,90000,london,data engineer,other,1,0,0,0
+business analyst apprenticeship,qa ltd,london gatwick airport,"permanent, full-time",no,"£22,000 per annum",0,0,22000,22000,22000,london,business analyst,junior,1,0,0,0
+sql developer/ data engineer - insurance - hybrid,i3 resourcing limited,london,"permanent, full-time",no,"£50,000 - £60,000 per annum",0,0,50000,60000,55000,london,data engineer,other,1,0,0,0
+power bi analyst,rise technical recruitment limited,glasgow,"permanent, full-time",no,"£28,000 - £30,000 per annum",0,0,28000,30000,29000,other cities,other,other,1,0,0,1
+business analyst,brook street,reading,"permanent, full-time",no,"£50,000 - £52,000 per annum, inc benefits",0,0,50000,52000,51000,other cities,business analyst,other,1,0,0,0
+business intelligence engineer,unipart logistics,nuneaton,"permanent, full-time",no,"£40,000 - £48,000 per annum",0,0,40000,48000,44000,other cities,other,other,1,0,0,0
+data engineer,matched group,reading,"permanent, full-time",no,"£45,000 - £55,000 per annum, inc benefits",0,0,45000,55000,50000,other cities,data engineer,other,1,0,0,0
+senior analyst,gregory martin international,winchester,"permanent, full-time",work from home,"£30,000 - £60,000 per annum",0,0,30000,60000,45000,other cities,other,senior,1,0,1,0
+power bi analyst,hays specialist recruitment limited,bradford,"temporary, full-time",no,"£34,000 - £38,000 per annum",0,0,34000,38000,36000,other cities,other,other,0,1,0,1
+power bi analyst,matched group,reading,"permanent, full-time",no,"£45,000 - £55,000 per annum, inc benefits",0,0,45000,55000,50000,other cities,other,other,1,0,0,0
+soda senior analyst and researcher,suffolk county council,ipswich,"permanent, full-time",no,"£43,455 per annum",0,0,43455,43455,43455,other cities,other,senior,1,0,0,0
+business analyst sustainability,harnham - data & analytics recruitment,london,"permanent, full-time",no,"£50,000 - £70,000 per annum",0,0,50000,70000,60000,london,business analyst,other,1,0,0,1
+compliance business analyst,xpertise recruitment ltd,london,"contract, full-time",no,£400 - £425 per day,0,1,104000,110500,107250,london,business analyst,other,0,1,0,1
+business analyst,the global search company,london,"permanent, full-time",no,"£50,000 - £55,000 per annum",0,0,50000,55000,52500,london,business analyst,other,1,0,0,0
+senior analyst consultant,gregory martin international,winchester,"permanent, full-time",no,"£30,000 - £60,000 per annum",0,0,30000,60000,45000,other cities,other,senior,1,0,0,0
+epicor business analyst,alfen technology ltd,leicester,"permanent, full-time",no,"£30,000 - £40,000 per annum",0,0,30000,40000,35000,other cities,business analyst,other,1,0,0,0
+lead business intelligence analyst,harnham - data & analytics recruitment,"richmond, surrey","permanent, full-time",no,"£55,000 - £65,000 per annum",0,0,55000,65000,60000,other cities,other,senior,1,0,0,1
+business analyst - up to £65k - uk dv cleared,oscar technology,manchester,"permanent, full-time",no,"£50,000 - £65,000 per annum",0,0,50000,65000,57500,manchester,business analyst,other,1,0,0,0
+senior analyst / consultant,gregory martin international,winchester,"permanent, full-time",work from home,"£35,000 - £60,000 per annum",0,0,35000,60000,47500,other cities,other,senior,1,0,1,0
+4x business analyst - £550/day - 6 months  ext,involved solutions,london,"contract, full-time",no,£450 - £550 per day,0,1,117000,143000,130000,london,business analyst,other,0,1,0,0
+graduate business analyst,page personnel secretarial & business support,oakham,"permanent, full-time",no,"£25,000 - £30,000 per annum",0,0,25000,30000,27500,other cities,business analyst,junior,1,0,0,0
+sql analyst programmer,noir,kilmarnock,"permanent, full-time",no,"£40,000 - £65,000 per annum",0,0,40000,65000,52500,other cities,other,other,1,0,0,0
+junior quantitative analyst,spectrum it recruitment,london,"permanent, full-time",no,"£50,000 - £75,000 per annum",0,0,50000,75000,62500,london,other,junior,1,0,0,1
+digital business analyst,woodford gray group,southport,"permanent, full-time",no,"£45,000 - £50,000 per annum, inc benefits, negotiable",0,0,45000,50000,47500,other cities,business analyst,other,1,0,0,0
+technical business analyst,coburg banks limited,walsall,"permanent, full-time",no,"£45,000 - £50,000 per annum",0,0,45000,50000,47500,other cities,business analyst,other,1,0,0,0
+commercial business analyst,faith recruitment,guildford,"permanent, full-time",no,"£28,000 - £30,000 per annum",0,0,28000,30000,29000,other cities,business analyst,other,1,0,0,1
+business analyst,inspiring interns & graduates,london,"permanent, full-time",no,"£25,000 - £35,000 per annum",0,0,25000,35000,30000,london,business analyst,other,1,0,0,0
+business analyst,xpertise recruitment ltd,london,"permanent, full-time",no,"£60,000 - £65,000 per annum",0,0,60000,65000,62500,london,business analyst,other,1,0,0,1
+business analyst,reed,london,"permanent, full-time",no,"£55,000 - £60,000 per annum, inc benefits",0,0,55000,60000,57500,london,business analyst,other,1,0,0,0
+business analyst,robert half,solihull,"permanent, full-time",no,"£30,000 - £35,000 per annum",0,0,30000,35000,32500,other cities,business analyst,other,1,0,0,0
+associate business analyst - contracts,adecco,cambridge,"contract, full-time",no,£300 - £450 per day,0,1,78000,117000,97500,other cities,business analyst,other,0,1,0,0
+lead business intelligence analyst,gleeson recruitment group,leamington spa,"permanent, full-time",no,"£55,000 - £60,000 per annum",0,0,55000,60000,57500,other cities,other,senior,1,0,0,1
+"business analyst  bradford hybrid  £47,000",oscar technology,bradford,"permanent, full-time",no,"£47,000 per annum",0,0,47000,47000,47000,other cities,business analyst,other,1,0,0,0
+cyber business analyst,pontoon,warwickshire,"contract, full-time",work from home,£500 - £550 per day,0,1,130000,143000,136500,other cities,business analyst,other,0,1,1,0
+business analyst - banking,the people network,"paddington, london","permanent, full-time",no,"£75,000 - £90,000 per annum",0,0,75000,90000,82500,london,business analyst,other,1,0,0,0
+business analyst - west midlands,explore group,wednesbury,"permanent, full-time",no,"£55,000 - £70,000 per annum",0,0,55000,70000,62500,other cities,business analyst,other,1,0,0,0
+finance process business analyst,morgan mckinley,london,"permanent, full-time",no,"£50,000 - £60,000 per annum",0,0,50000,60000,55000,london,business analyst,other,1,0,0,0
+business analyst,sr2,bristol,"permanent, full-time",no,"£50,000 - £60,000 per annum",0,0,50000,60000,55000,other cities,business analyst,other,1,0,0,0
+senior business intelligence analyst,adlib,manchester,"permanent, full-time",no,"£40,000 - £50,000 per annum",0,0,40000,50000,45000,manchester,other,senior,1,0,0,0
+business analyst operations,computappoint,london,"permanent, full-time",no,"£90,000 per annum",0,0,90000,90000,90000,london,business analyst,other,1,0,0,0
+technical business analyst,nigel frank international,bradford,"permanent, full-time",no,"£50,000 - £60,000 per annum",0,0,50000,60000,55000,other cities,business analyst,other,1,0,0,0
+technical business analyst,nigel frank international,leeds,"permanent, full-time",no,"£50,000 - £60,000 per annum",0,0,50000,60000,55000,leeds,business analyst,other,1,0,0,0
+business analyst,reed,london,"permanent, full-time",no,"£50,000 - £60,000 per annum, inc benefits",0,0,50000,60000,55000,london,business analyst,other,1,0,0,0
+business analyst rpa,in technology group limited,london,"permanent, full-time",no,"£35,000 - £45,000 per annum",0,0,35000,45000,40000,london,business analyst,other,1,0,0,0
+finance business analyst,reed,crouch end,"permanent, full-time",no,"£50,000 - £65,000 per annum, inc benefits",0,0,50000,65000,57500,other cities,business analyst,other,1,0,0,0
+business analyst - risk and control - contract - hybrid,oscar technology,manchester,"contract, full-time",no,£400 - £450 per day,0,1,104000,117000,110500,manchester,business analyst,other,0,1,0,0
+technical business analyst,coburg banks limited,bristol,"permanent, full-time",no,"£45,000 - £50,000 per annum",0,0,45000,50000,47500,other cities,business analyst,other,1,0,0,0
+business analyst,first military recruitment,crawley,"permanent, full-time",no,"£55,000 - £70,000 per annum",0,0,55000,70000,62500,other cities,business analyst,other,1,0,0,1
+business analyst,university of wolverhampton,wolverhampton,"permanent, full-time",no,"£37,474 - £44,737 per annum",0,0,37474,44737,41106,other cities,business analyst,other,1,0,0,0
+business analyst for cyber security projects,eames consulting,london,"contract, full-time",no,£450 - £550 per day,0,1,117000,143000,130000,london,business analyst,other,0,1,0,0
+graduate business analyst,new london hr,city of london,"permanent, full-time",no,"£40,000 - £50,000 per annum, ote, inc benefits, pro-rata, negotiable",0,0,40000,50000,45000,london,business analyst,junior,1,0,0,0
+business analyst,senitor associates,hull,"permanent, full-time",no,"£30,000 - £35,000 per annum",0,0,30000,35000,32500,other cities,business analyst,other,1,0,0,0
+business analyst - banking operations - avp,venn group,london,"contract, full-time",no,£320 per day,0,1,83200,83200,83200,london,business analyst,other,0,1,0,0
+technical business analyst,stanton house,london,"contract, full-time",no,£450 - £550 per day,0,1,117000,143000,130000,london,business analyst,other,0,1,0,0
+product business analyst,louis~hampshire,london,"permanent, full-time",no,"£40,000 - £45,000 per annum",0,0,40000,45000,42500,london,business analyst,other,1,0,0,0
+technical business analyst,nigel frank international,burnley,"permanent, full-time",no,"£50,000 - £60,000 per annum",0,0,50000,60000,55000,other cities,business analyst,other,1,0,0,0
+technical business analyst,nigel frank international,skipton,"permanent, full-time",no,"£50,000 - £60,000 per annum",0,0,50000,60000,55000,other cities,business analyst,other,1,0,0,0
+technical business analyst,nigel frank international,harrogate,"permanent, full-time",no,"£50,000 - £60,000 per annum",0,0,50000,60000,55000,other cities,business analyst,other,1,0,0,0
+technical business analyst,nigel frank international,halifax,"permanent, full-time",no,"£50,000 - £60,000 per annum",0,0,50000,60000,55000,other cities,business analyst,other,1,0,0,0
+technical business analyst,nigel frank international,keighley,"permanent, full-time",no,"£50,000 - £60,000 per annum",0,0,50000,60000,55000,other cities,business analyst,other,1,0,0,0
+"business analyst, ba, hybrid",sanderson,reading,"contract, full-time",no,£400 - £500 per day,0,1,104000,130000,117000,other cities,business analyst,other,0,1,0,0
+junior business analyst,inspiring interns & graduates,london,"permanent, full-time",no,"£25,000 - £28,000 per annum",0,0,25000,28000,26500,london,business analyst,junior,1,0,0,0
+business analyst,la fosse,london,"permanent, full-time",no,"£48,000 - £50,000 per annum",0,0,48000,50000,49000,london,business analyst,other,1,0,0,0
+calypso business analyst,eames consulting,edinburgh,"contract, full-time",no,£400 - £435 per day,0,1,104000,113100,108550,other cities,business analyst,other,0,1,0,0
+financial business analyst,london property personnel,london,"permanent, full-time",no,"£37,000 - £42,000 per annum",0,0,37000,42000,39500,london,business analyst,other,1,0,0,0
+senior business analyst,venn group,london,"contract, full-time",no,£450 per day,0,1,117000,117000,117000,london,business analyst,senior,0,1,0,0
+senior technical business analyst - media - london,salt search,london,"contract, full-time",no,£300 - £500 per day,0,1,78000,130000,104000,london,business analyst,senior,0,1,0,0
+senior business analyst,mcgregor boyall,london,"contract, full-time",no,£500 - £501 per day,0,1,130000,130260,130130,london,business analyst,senior,0,1,0,0
+business analyst - casino,morgan spencer,city of london,"permanent, full-time",no,"£70,000 per annum",0,0,70000,70000,70000,london,business analyst,other,1,0,0,0
+business analyst - online gaming/sports,morgan spencer,city of london,"permanent, full-time",no,"£70,000 per annum",0,0,70000,70000,70000,london,business analyst,other,1,0,0,0
+senior business analyst ( insurance ),amc insurance appointments ltd,london,"permanent, full-time",no,"£100,000 - £120,000 per annum",0,0,100000,120000,110000,london,business analyst,senior,1,0,0,0
+junior technical business analyst,bennett & game recruitment,"beeston, nottingham","permanent, full-time",no,"£30,000 - £45,000 per annum",0,0,30000,45000,37500,other cities,business analyst,junior,1,0,0,1
+business analyst - ms dynamics crm,sanderson,london,"contract, full-time",no,£500 - £550 per day,0,1,130000,143000,136500,london,business analyst,other,0,1,0,0
+graduate business analyst,granite recruitment and consulting limited,bristol,"permanent, full-time",no,"£25,000 per annum",0,0,25000,25000,25000,other cities,business analyst,junior,1,0,0,1
+business intelligence analyst,chm,sheffield,"permanent, full-time",no,"£27,852 - £30,151 per annum, inc benefits",0,0,27852,30151,29002,other cities,other,other,1,0,0,0
+business analyst,proactive appointments,glasgow,"permanent, full-time",work from home,"£50,000 - £55,000 per annum",0,0,50000,55000,52500,other cities,business analyst,other,1,0,1,0
+technical business analyst,reed,newcastle upon tyne,"permanent, full-time",no,"£60,000 - £70,000 per annum, inc benefits",0,0,60000,70000,65000,other cities,business analyst,other,1,0,0,0
+junior business analyst,inspiring interns & graduates,marlow,"permanent, full-time",no,"£25,000 - £35,000 per annum",0,0,25000,35000,30000,other cities,business analyst,junior,1,0,0,0
+digital business analyst,inchcape retail limited,birmingham business park,"permanent, full-time",no,"£37,962 - £41,000 per annum",0,0,37962,41000,39481,birmingham,business analyst,other,1,0,0,0
+finance business analyst apprenticeship,hr go recruitment,"ashford, kent","permanent, full-time",no,"£22,000 - £26,000 per annum",0,0,22000,26000,24000,other cities,business analyst,junior,1,0,0,1
+business analyst - belper/ wfh - £44k,senitor associates,belper,"permanent, full-time",no,"£38,000 - £44,000 per annum",0,0,38000,44000,41000,other cities,business analyst,other,1,0,0,0
+m&a senior analyst - entertainment,handle recruitment,london,"permanent, full-time",no,"£80,000 - £90,000 per annum",0,0,80000,90000,85000,london,other,senior,1,0,0,1
+business analyst - sap implementation,gleeson recruitment group,tamworth,"permanent, full-time",no,"£35,000 - £40,000 per annum",0,0,35000,40000,37500,other cities,business analyst,other,1,0,0,1
+calypso business analyst,asset resourcing limited,city of london,"permanent, full-time",no,"£90,000 per annum",0,0,90000,90000,90000,london,business analyst,other,1,0,0,0
+5g & telecoms security infrastructure business analyst,trust in soda,reading,"contract, full-time",work from home,£400 - £450 per day,0,1,104000,117000,110500,other cities,business analyst,other,0,1,1,0
+business analyst - fintech/trading,morgan spencer,city of london,"permanent, full-time",no,"£70,000 per annum",0,0,70000,70000,70000,london,business analyst,other,1,0,0,0
+business analyst  £50k  hybrid  bradford,oscar technology,bradford,"permanent, full-time",no,"£45,000 - £50,000 per annum",0,0,45000,50000,47500,other cities,business analyst,other,1,0,0,0
+power bi analyst,castlefield recruitment,leeds,"temporary, full-time",work from home,£27 - £34 per hour,1,0,54000,68000,61000,leeds,other,other,0,1,1,1
+digital business analyst,woodford gray group,southport,"permanent, full-time",work from home,"£30,000 - £45,000 per annum, inc benefits",0,0,30000,45000,37500,other cities,business analyst,other,1,0,1,0
+business analyst,hays specialist recruitment limited,west midlands (region),"permanent, full-time",no,"£34,287 - £39,942 per annum",0,0,34287,39942,37114,other cities,business analyst,other,1,0,0,1
+it business analyst,robert half,abingdon,"permanent, full-time",no,"£45,000 - £50,000 per annum",0,0,45000,50000,47500,other cities,business analyst,other,1,0,0,0
+sql/business analyst,venn group,london,"contract, full-time",no,£305 per day,0,1,79300,79300,79300,london,business analyst,other,0,1,0,0
+senior business analyst - change management -  liverpool,circle recruitment,liverpool,"permanent, full-time",no,"£50,000 - £60,000 per annum",0,0,50000,60000,55000,other cities,business analyst,senior,1,0,0,1
+remote mid-level it business analyst - 1 day /month in office,oscar technology,warrington,"permanent, full-time",work from home,"£35,000 - £40,000 per annum",0,0,35000,40000,37500,other cities,business analyst,other,1,0,1,0
+business analyst,goodman masson,london,"contract, full-time",no,£400 - £650 per day,0,1,104000,169000,136500,london,business analyst,other,0,1,0,0
+third party management / business analyst,huxley,london,"contract, full-time",no,£700 - £821 per day,0,1,182000,213460,197730,london,business analyst,other,0,1,0,0
+business intelligence analyst- liverpool - hybrid working,reed in partnership,liverpool,"permanent, full-time",work from home,"£32,000 - £40,000 per annum",0,0,32000,40000,36000,other cities,other,other,1,0,1,0
+senior business analyst,physical 2 digital (p2d),marlow,"permanent, full-time",no,"£55,000 - £65,000 per annum",0,0,55000,65000,60000,other cities,business analyst,senior,1,0,0,0
+bi analyst / power bi analyst,eligo recruitment,west yorkshire,"permanent, full-time",no,"£35,000 - £45,000 per annum",0,0,35000,45000,40000,other cities,other,other,1,0,0,1
+finance business analyst,page personnel finance,salford,"permanent, full-time",no,"£40,000 - £47,000 per annum",0,0,40000,47000,43500,other cities,business analyst,other,1,0,0,0
+finance business analyst,fairmont recruitment limited,"magna park, lutterworth","permanent, full-time",no,"£42,000 - £50,000 per annum",0,0,42000,50000,46000,other cities,business analyst,other,1,0,0,1
+fully remote technical business analyst - e-commerce,oscar technology,leeds,"permanent, full-time",work from home,"£35,000 - £40,000 per annum",0,0,35000,40000,37500,leeds,business analyst,other,1,0,1,0
+active dv cleared- business analyst,eteam inc,northwood,"contract, full-time",no,"£550 - £600 per day, negotiable",0,1,143000,156000,149500,other cities,business analyst,other,0,1,0,0
+data engineer - dv cleared contract,searchability,cheltenham,"contract, full-time",no,£600 - £700 per day,0,1,156000,182000,169000,other cities,data engineer,other,0,1,0,0
+technical business analyst - infrastructure,trust in soda,reading,"contract, full-time",work from home,£400 - £450 per day,0,1,104000,117000,110500,other cities,business analyst,other,0,1,1,0
+business analyst,hays specialist recruitment limited,cheshire,"permanent, full-time",no,£450 - £500 per day,0,1,117000,130000,123500,other cities,business analyst,other,1,0,0,1
+business analyst,red dot search,alderley edge,"permanent, full-time",no,"£40,000 - £55,000 per annum",0,0,40000,55000,47500,other cities,business analyst,other,1,0,0,0
+business analyst - digital products,anson mccade ltd - it and finance recruitment,london,"permanent, full-time",no,"£65,000 - £75,000 per annum",0,0,65000,75000,70000,london,business analyst,other,1,0,0,1
+technical business analyst,eames consulting,london,"contract, full-time",work from home,£550 - £600 per day,0,1,143000,156000,149500,london,business analyst,other,0,1,1,0
+business analyst,rose & young recruitment ltd,rugby,"permanent, full-time",no,"£23,000 - £26,000 per annum",0,0,23000,26000,24500,other cities,business analyst,other,1,0,0,1
+digital business analyst,arc it recruitment,london,"permanent, full-time",no,"£55,000 - £60,000 per annum",0,0,55000,60000,57500,london,business analyst,other,1,0,0,1
+azure data engineer,reed,"south bank, middlesbrough","permanent, full-time",no,"£65,000 per annum",0,0,65000,65000,65000,other cities,data engineer,other,1,0,0,0
+business analyst,stonegate,"shirley, solihull","permanent, full-time",no,"£35,000 - £45,000 per annum",0,0,35000,45000,40000,other cities,business analyst,other,1,0,0,0
+it business analyst,infused solutions limited,mansfield,"permanent, full-time",no,"£40,000 - £50,000 per annum",0,0,40000,50000,45000,other cities,business analyst,other,1,0,0,0
+business analyst,la fosse,sutton,"contract, full-time",no,"£60,000 - £65,000 per annum",0,0,60000,65000,62500,other cities,business analyst,other,0,1,0,0
+assistant business analyst,red dot search,alderley edge,"permanent, full-time",no,"£25,000 - £35,000 per annum",0,0,25000,35000,30000,other cities,business analyst,other,1,0,0,0
+software business analyst,yourrecruit group,redhill,"permanent, full-time",no,"£55,000 - £65,000 per annum",0,0,55000,65000,60000,other cities,business analyst,other,1,0,0,0
+business analyst,trinity resource solutions,"denham, uxbridge","permanent, full-time",no,"£36,000 - £40,000 per annum, inc benefits",0,0,36000,40000,38000,other cities,business analyst,other,1,0,0,0
+business analyst,arcas technology ltd.,surbiton,"permanent, full-time",no,"£50,000 - £55,000 per annum",0,0,50000,55000,52500,other cities,business analyst,other,1,0,0,0
+business analyst,la fosse,cheltenham,"permanent, full-time",no,"£65,000 - £80,000 per annum",0,0,65000,80000,72500,other cities,business analyst,other,1,0,0,0
+business analyst,hays specialist recruitment limited,manchester,"contract, full-time",no,£450 - £500 per day,0,1,117000,130000,123500,manchester,business analyst,other,0,1,0,1
+business intelligence analyst,reed,newcastle upon tyne,"permanent, full-time",no,"£35,000 per annum",0,0,35000,35000,35000,other cities,other,other,1,0,0,0
+it business analyst / process analyst backup / restore,pontoon,warwickshire,"contract, full-time",no,£550 per day,0,1,143000,143000,143000,other cities,business analyst,other,0,1,0,0
+principle business analyst,grg executive search,west midlands (region),"permanent, full-time",no,"£60,000 - £70,000 per annum",0,0,60000,70000,65000,other cities,business analyst,other,1,0,0,0
+power bi analyst,nigel frank international,birmingham,"permanent, full-time",no,"£35,000 - £45,000 per annum",0,0,35000,45000,40000,birmingham,other,other,1,0,0,0
+agile technical business analyst - leigh - hybrid - £35-45k p/a,oscar technology,leigh,"permanent, full-time",no,"£35,000 - £45,000 per annum",0,0,35000,45000,40000,other cities,business analyst,other,1,0,0,0
+finance business analyst,robert half,milton keynes,"permanent, full-time",no,"£45,000 - £50,000 per annum",0,0,45000,50000,47500,other cities,business analyst,other,1,0,0,0
+business analyst - regulatory reporting,marks sattin,london,"contract, full-time",no,"£95,000 - £100,000 per annum",0,0,95000,100000,97500,london,business analyst,other,0,1,0,0
+business analyst - housing public sector,akton recruitment ltd,london,"contract, full-time",no,£420 - £430 per day,0,1,109200,111800,110500,london,business analyst,other,0,1,0,1
+reporting and business intelligence analyst,incisive ltd,london,"permanent, full-time",no,"£50,000 - £65,000 per annum",0,0,50000,65000,57500,london,other,other,1,0,0,0
+cyber business analyst supplier engagement,pontoon,warwickshire,"contract, full-time",no,£550 - £600 per day,0,1,143000,156000,149500,other cities,business analyst,other,0,1,0,0
+senior analyst,mexa solutions ltd,london,"permanent, full-time",no,"£40,000 - £50,000 per annum",0,0,40000,50000,45000,london,other,senior,1,0,0,0
+senior business analyst,sanderson,bristol,"permanent, full-time",no,"£35,000 - £50,000 per annum",0,0,35000,50000,42500,other cities,business analyst,senior,1,0,0,0
+business analyst apprentice,qa ltd,city of london,"permanent, full-time",no,"£21,749 per annum",0,0,21749,21749,21749,london,business analyst,junior,1,0,0,0
+business analyst risk & compliance,pontoon,london,"contract, full-time",no,£450 - £550 per day,0,1,117000,143000,130000,london,business analyst,other,0,1,0,0
+contract business analyst,gem partnership ltd,durham,"permanent, full-time",no,£200 - £300 per day,0,1,52000,78000,65000,other cities,business analyst,other,1,0,0,0
+business analyst apprentice,qa ltd,leeds,"permanent, full-time",no,"£19,838 per annum",0,0,19838,19838,19838,leeds,business analyst,junior,1,0,0,0
+business analyst apprentice,qa ltd,manchester,"permanent, full-time",no,"£19,838 per annum",0,0,19838,19838,19838,manchester,business analyst,junior,1,0,0,0
+technical front-office business analyst,hays specialist recruitment limited,london,"permanent, full-time",no,"£90,000 - £95,000 per annum",0,0,90000,95000,92500,london,business analyst,other,1,0,0,1
+it business analyst,net recruit,new milton,"permanent, full-time",no,"£25,000 - £30,000 per annum",0,0,25000,30000,27500,other cities,business analyst,other,1,0,0,0
+business intelligence and crm leader,robert half,towcester,"permanent, full-time",no,"£55,000 - £60,000 per annum",0,0,55000,60000,57500,other cities,other,senior,1,0,0,0
+senior business analyst,hays specialist recruitment limited,brighton,"permanent, full-time",no,"£60,000 - £70,000 per annum",0,0,60000,70000,65000,other cities,business analyst,senior,1,0,0,1
+yardi business analyst,robert half,london,"permanent, full-time",no,"£60,000 - £75,000 per annum",0,0,60000,75000,67500,london,business analyst,other,1,0,0,0
+d365 business analyst,robert half,london,"permanent, full-time",no,"£65,000 - £72,000 per annum",0,0,65000,72000,68500,london,business analyst,other,1,0,0,0
+"senior business analyst  £75,000  hybrid  leeds",oscar technology,leeds,"permanent, full-time",no,"£70,000 - £75,000 per annum",0,0,70000,75000,72500,leeds,business analyst,senior,1,0,0,0
+business intelligence developer,oscar technology,derby,"permanent, full-time",no,"£35,000 - £45,000 per annum",0,0,35000,45000,40000,other cities,other,other,1,0,0,0
+junior business intelligence analyst,sparta global,city of london,"permanent, full-time",no,"£23,000 per annum, ote, inc benefits",0,0,23000,23000,23000,london,other,junior,1,0,0,0
+hybrid infrastructure business analyst,trust in soda,london,"contract, full-time",work from home,£500 - £565 per day,0,1,130000,146900,138450,london,business analyst,other,0,1,1,0
+senior data engineer,robert walters,manchester,"permanent, full-time",no,"£60,000 - £80,000 per annum",0,0,60000,80000,70000,manchester,data engineer,senior,1,0,0,0
+business analyst,saga,london,"contract, full-time",work from home,"£40,000 - £45,000 per annum",0,0,40000,45000,42500,london,business analyst,other,0,1,1,0
+junior business analyst,sparta global,manchester,"permanent, full-time",no,"£23,000 per annum, ote, inc benefits",0,0,23000,23000,23000,manchester,business analyst,junior,1,0,0,0
+junior business analyst,sparta global,city of london,"permanent, full-time",no,"£23,000 per annum, ote, inc benefits",0,0,23000,23000,23000,london,business analyst,junior,1,0,0,0
+junior business analyst,sparta global,birmingham,"permanent, full-time",no,"£23,000 per annum, ote, inc benefits",0,0,23000,23000,23000,birmingham,business analyst,junior,1,0,0,0
+data engineering technical lead,harnham - data & analytics recruitment,manchester,"permanent, full-time",no,"£80,000 - £90,000 per annum",0,0,80000,90000,85000,manchester,data engineer,senior,1,0,0,1
+data engineering manager - azure databricks - london - £80k,nigel frank international,london,"permanent, full-time",no,"£60,000 - £80,000 per annum",0,0,60000,80000,70000,london,data engineer,other,1,0,0,0
+data engineer,rutherford briant,hoddesdon,"permanent, full-time",no,"£65,000 - £75,000 per annum",0,0,65000,75000,70000,other cities,data engineer,other,1,0,0,0
+geospatial data engineer,kinect recruitment,london,"permanent, full-time",work from home,"£35,000 - £45,000 per annum",0,0,35000,45000,40000,london,data engineer,other,1,0,1,1
+data engineer,rutherford briant,doncaster,"permanent, full-time",no,"£65,000 - £75,000 per annum",0,0,65000,75000,70000,other cities,data engineer,other,1,0,0,0
+data engineer,rutherford briant,preston,"permanent, full-time",no,"£65,000 - £75,000 per annum",0,0,65000,75000,70000,other cities,data engineer,other,1,0,0,0
+data engineer,jefferson frank,oxfordshire,"permanent, full-time",no,"£60,000 - £67,000 per annum",0,0,60000,67000,63500,other cities,data engineer,other,1,0,0,0
+lead data engineer,richard wheeler associates,london,"permanent, full-time",work from home,"£95,000 - £105,000 per annum",0,0,95000,105000,100000,london,data engineer,senior,1,0,1,0
+business intelligence & data analytics manager,dexters estate agents,city of london,"permanent, full-time",no,"£65,000 - £85,000 per annum",0,0,65000,85000,75000,london,other,other,1,0,0,0
+business intelligence architect,akkodis,oxfordshire,"permanent, full-time",no,"£80,000 - £90,000 per annum",0,0,80000,90000,85000,other cities,other,other,1,0,0,0
+master data manager,robert half,woking,"permanent, full-time",no,"£45,000 - £55,000 per annum",0,0,45000,55000,50000,other cities,other,other,1,0,0,0
+business intelligence analyst,betechnology group limited,liverpool,"permanent, full-time",no,"£30,000 - £35,000 per annum",0,0,30000,35000,32500,other cities,other,other,1,0,0,0
+data engineer,anson mccade ltd - it and finance recruitment,birmingham,"permanent, full-time",no,"£45,000 - £60,000 per annum",0,0,45000,60000,52500,birmingham,data engineer,other,1,0,0,1
+data engineer,harnham - data & analytics recruitment,birmingham,"permanent, full-time",no,"£65,000 - £75,000 per annum",0,0,65000,75000,70000,birmingham,data engineer,other,1,0,0,1
+data engineer,harnham - data & analytics recruitment,manchester,"permanent, full-time",no,"£65,000 - £75,000 per annum",0,0,65000,75000,70000,manchester,data engineer,other,1,0,0,1
+business intelligence manager,huntress,cambridgeshire,"permanent, full-time",no,"£55,000 - £58,000 per annum",0,0,55000,58000,56500,other cities,other,other,1,0,0,0
+biomedical machine learning engineer,in technology group limited,oxfordshire,"permanent, full-time",no,"£80,000 - £80,001 per annum",0,0,80000,80001,80000,other cities,machine learning engineer,other,1,0,0,0
+p2p business analyst,altum consulting,london,"temporary, full-time",no,£500 - £550 per day,0,1,130000,143000,136500,london,business analyst,other,0,1,0,0
+correspondence business analyst,sanderson,bristol,"permanent, full-time",no,"£35,000 - £40,000 per annum",0,0,35000,40000,37500,other cities,business analyst,other,1,0,0,0
+business analyst - power bi,hays specialist recruitment limited,manchester,"contract, full-time",no,£550 - £600 per day,0,1,143000,156000,149500,manchester,business analyst,other,0,1,0,1
+commercial business analyst,carol johnson consulting cic,northampton,"permanent, full-time",no,"£40,000 per annum",0,0,40000,40000,40000,other cities,business analyst,other,1,0,0,0
+digital business analyst,connect2dudley,dudley,"temporary, full-time",no,"£42,503 - £45,495 per annum",0,0,42503,45495,43999,other cities,business analyst,other,0,1,0,0
+data engineer,robert walters,manchester,"permanent, full-time",no,"£32,000 - £38,000 per annum",0,0,32000,38000,35000,manchester,data engineer,other,1,0,0,0
+data engineer contract,harnham - data & analytics recruitment,london,"contract, full-time",no,£550 - £650 per day,0,1,143000,169000,156000,london,data engineer,other,0,1,0,1
+lead data engineer,concept resourcing,london,"permanent, full-time",work from home,"£45,000 - £50,000 per annum",0,0,45000,50000,47500,london,data engineer,senior,1,0,1,0
+azure data engineer,understanding recruitment,london,"permanent, full-time",no,"£48,000 per annum, inc benefits",0,0,48000,48000,48000,london,data engineer,other,1,0,0,1
+senior data engineer,vadis people service ltd,london,"permanent, full-time",no,"£80,000 - £90,000 per annum, negotiable",0,0,80000,90000,85000,london,data engineer,senior,1,0,0,0
+senior data engineer,expert employment limited,london,"permanent, full-time",no,"£55,000 - £75,000 per annum",0,0,55000,75000,65000,london,data engineer,senior,1,0,0,0
+data manager - innovative market research agency,resources group,north west england,"permanent, full-time",no,"£40,000 - £45,000 per annum",0,0,40000,45000,42500,other cities,other,other,1,0,0,0
+senior data engineer,robert walters,cheshire,"permanent, full-time",work from home,"£65,000 - £80,000 per annum",0,0,65000,80000,72500,other cities,data engineer,senior,1,0,1,0
+business intelligence analyst apprentice,qa ltd,castle donington,"permanent, full-time",no,"£20,000 per annum",0,0,20000,20000,20000,other cities,other,junior,1,0,0,0
+senior data scientist,data idols,london,"permanent, full-time",no,"£90,000 - £100,000 per annum",0,0,90000,100000,95000,london,data scientist,senior,1,0,0,0
+data engineer,concept resourcing,london,"permanent, full-time",no,"£45,000 - £50,000 per annum",0,0,45000,50000,47500,london,data engineer,other,1,0,0,0
+director of data science,harnham - data & analytics recruitment,london,"permanent, full-time",no,"£100,000 - £140,000 per annum",0,0,100000,140000,120000,london,data scientist,other,1,0,0,1
+senior quantitative analytics consultant - leading customer insights consultancy,resources group,london,"permanent, full-time",no,"£60,000 - £80,000 per annum",0,0,60000,80000,70000,london,other,senior,1,0,0,0
+senior correspondence business analyst,sanderson,stirling,"permanent, full-time",no,"£40,000 - £50,000 per annum",0,0,40000,50000,45000,other cities,business analyst,senior,1,0,0,0
+data engineer,saga,london,"permanent, full-time",work from home,"£35,000 - £45,000 per annum",0,0,35000,45000,40000,london,data engineer,other,1,0,1,0
+data engineer,hyper recruitment solutions ltd,london,"contract, full-time",no,£350 - £400 per day,0,1,91000,104000,97500,london,data engineer,other,0,1,0,1
+data engineer,harnham - data & analytics recruitment,london,"permanent, full-time",no,"£50,000 - £70,000 per annum",0,0,50000,70000,60000,london,data engineer,other,1,0,0,1
+data engineer,acs performance,leeds,"contract, full-time",work from home,"£55,000 per annum",0,0,55000,55000,55000,leeds,data engineer,other,0,1,1,0
+data engineer,anson mccade ltd - it and finance recruitment,manchester,"permanent, full-time",no,"£45,000 - £60,000 per annum",0,0,45000,60000,52500,manchester,data engineer,other,1,0,0,1
+data engineer,fairmont recruitment limited,salford,"permanent, full-time",no,"£50,000 - £70,000 per annum",0,0,50000,70000,60000,other cities,data engineer,other,1,0,0,1
+data engineer,harnham - data & analytics recruitment,london,"permanent, full-time",no,"£40,000 - £50,000 per annum",0,0,40000,50000,45000,london,data engineer,other,1,0,0,1
+data engineer,adlib,exeter,"permanent, full-time",work from home,"£45,000 - £65,000 per annum",0,0,45000,65000,55000,other cities,data engineer,other,1,0,1,0
+data engineer,anson mccade ltd - it and finance recruitment,salford,"permanent, full-time",no,"£45,000 - £60,000 per annum",0,0,45000,60000,52500,other cities,data engineer,other,1,0,0,1
+data engineer,circle recruitment,cambridge,"permanent, full-time",no,"£35,000 - £50,000 per annum",0,0,35000,50000,42500,other cities,data engineer,other,1,0,0,1
+data engineer,sc4 recruitment limited,london,"permanent, full-time",no,"£40,000 - £45,000 per annum",0,0,40000,45000,42500,london,data engineer,other,1,0,0,1
+data engineer,la fosse,bishop's stortford,"permanent, full-time",no,"£50,000 - £60,000 per annum",0,0,50000,60000,55000,other cities,data engineer,other,1,0,0,0
+data engineer,sc4 recruitment limited,london,"permanent, full-time",no,"£45,000 - £55,000 per annum",0,0,45000,55000,50000,london,data engineer,other,1,0,0,1
+data engineer,harnham - data & analytics recruitment,london,"permanent, full-time",no,"£35,000 - £40,000 per annum",0,0,35000,40000,37500,london,data engineer,other,1,0,0,1
+data engineer,jisc,city of london,"contract, full-time",work from home,"£40,000 per annum",0,0,40000,40000,40000,london,data engineer,other,0,1,1,0
+data engineer,integral recruitment ltd,surrey,"permanent, full-time",no,"£40,000 - £55,000 per annum",0,0,40000,55000,47500,other cities,data engineer,other,1,0,0,1
+data engineer,harnham - data & analytics recruitment,newcastle upon tyne,"permanent, full-time",no,"£55,000 - £60,000 per annum",0,0,55000,60000,57500,other cities,data engineer,other,1,0,0,1
+data engineer,harnham - data & analytics recruitment,leeds,"permanent, full-time",no,"£65,000 - £75,000 per annum",0,0,65000,75000,70000,leeds,data engineer,other,1,0,0,1
+data engineer,harnham - data & analytics recruitment,london,"contract, full-time",no,£450 - £600 per day,0,1,117000,156000,136500,london,data engineer,other,0,1,0,1
+data engineer,harnham - data & analytics recruitment,london,"permanent, full-time",no,"£35,000 - £50,000 per annum",0,0,35000,50000,42500,london,data engineer,other,1,0,0,1
+data engineer,michael page technology,basingstoke,"permanent, full-time",work from home,"£50,000 - £65,000 per annum",0,0,50000,65000,57500,other cities,data engineer,other,1,0,1,0
+data engineer,arthur,city of london,"contract, full-time",no,£500 - £550 per day,0,1,130000,143000,136500,london,data engineer,other,0,1,0,0
+data engineer,data idols,london,"permanent, full-time",no,"£75,000 per annum",0,0,75000,75000,75000,london,data engineer,other,1,0,0,0
+data engineer,huntress,london,"contract, full-time",no,£58 - £63 per hour,1,0,116000,126000,121000,london,data engineer,other,0,1,0,0
+data engineer,harnham - data & analytics recruitment,london,"permanent, full-time",no,"£45,000 - £50,000 per annum",0,0,45000,50000,47500,london,data engineer,other,1,0,0,1
+data engineer,harnham - data & analytics recruitment,london,"permanent, full-time",no,"£65,000 - £75,000 per annum",0,0,65000,75000,70000,london,data engineer,other,1,0,0,1
+data engineer,proactive appointments,london,"permanent, full-time",no,"£60,000 - £65,000 per annum",0,0,60000,65000,62500,london,data engineer,other,1,0,0,0
+data engineer,spectrum it recruitment,basingstoke,"permanent, full-time",work from home,"£50,000 - £65,000 per annum",0,0,50000,65000,57500,other cities,data engineer,other,1,0,1,1
+data engineer,intec select limited,hoddesdon,"permanent, full-time",no,"£70,000 - £75,000 per annum",0,0,70000,75000,72500,other cities,data engineer,other,1,0,0,0
+data engineer,eames consulting,london,"contract, full-time",no,£450 - £550 per day,0,1,117000,143000,130000,london,data engineer,other,0,1,0,0
+data engineer,harnham - data & analytics recruitment,uxbridge,"permanent, full-time",no,"£65,000 - £75,000 per annum",0,0,65000,75000,70000,other cities,data engineer,other,1,0,0,1
+data engineer,viqu limited,leeds,"contract, full-time",no,£500 - £600 per day,0,1,130000,156000,143000,leeds,data engineer,other,0,1,0,0
+data engineer,viqu limited,manchester,"contract, full-time",no,£500 - £600 per day,0,1,130000,156000,143000,manchester,data engineer,other,0,1,0,0
+data engineer,hays specialist recruitment limited,bedfordshire,"permanent, full-time",no,"£60,000 - £70,000 per annum",0,0,60000,70000,65000,other cities,data engineer,other,1,0,0,1
+data engineer,harnham - data & analytics recruitment,manchester,"permanent, full-time",no,"£55,000 - £60,000 per annum",0,0,55000,60000,57500,manchester,data engineer,other,1,0,0,1
+data engineer,intec select limited,london,"permanent, full-time",no,"£60,000 - £70,000 per annum",0,0,60000,70000,65000,london,data engineer,other,1,0,0,0
+data engineer,sanderson,newcastle upon tyne,"permanent, full-time",no,"£36,500 - £42,000 per annum, inc benefits",0,0,36500,42000,39250,other cities,data engineer,other,1,0,0,0
+data engineer,harnham - data & analytics recruitment,london,"permanent, full-time",no,"£50,000 per annum",0,0,50000,50000,50000,london,data engineer,other,1,0,0,1
+data engineer,betechnology group limited,manchester,"permanent, full-time",no,"£40,000 - £45,000 per annum",0,0,40000,45000,42500,manchester,data engineer,other,1,0,0,0
+data engineer,nigel frank international,london,"permanent, full-time",no,"£55,000 - £65,000 per annum",0,0,55000,65000,60000,london,data engineer,other,1,0,0,0
+data engineer,rutherford briant,hoddesdon,"permanent, full-time",no,£350 - £500 per day,0,1,91000,130000,110500,other cities,data engineer,other,1,0,0,0
+data engineer,yolk recruitment ltd,cardiff,"permanent, full-time",no,"£50,000 per annum",0,0,50000,50000,50000,other cities,data engineer,other,1,0,0,1
+data engineer,hays specialist recruitment limited,cardiff,"contract, full-time",no,£300 - £350 per day,0,1,78000,91000,84500,other cities,data engineer,other,0,1,0,1
+data engineer,clear it recruitment limited,guildford,"permanent, full-time",no,"£35,000 - £65,000 per annum",0,0,35000,65000,50000,other cities,data engineer,other,1,0,0,1
+data engineer,fusion people ltd,london,"contract, full-time",no,£170 - £180 per day,0,1,44200,46800,45500,london,data engineer,other,0,1,0,0
+senior data engineer,harnham - data & analytics recruitment,camden (london borough),"permanent, full-time",no,"£60,000 - £70,000 per annum",0,0,60000,70000,65000,london,data engineer,senior,1,0,0,1
+lead data engineer,harnham - data & analytics recruitment,london,"permanent, full-time",no,"£70,000 - £80,000 per annum",0,0,70000,80000,75000,london,data engineer,senior,1,0,0,1
+data engineer,reed,middlesbrough,"permanent, full-time",no,"£60,000 - £65,000 per annum",0,0,60000,65000,62500,other cities,data engineer,other,1,0,0,0
+data engineer,reed,county durham,"permanent, full-time",no,"£50,000 - £60,000 per annum",0,0,50000,60000,55000,other cities,data engineer,other,1,0,0,0
+principal data engineer,harnham - data & analytics recruitment,london,"permanent, full-time",no,"£75,000 - £95,000 per annum, inc benefits, pro-rata",0,0,75000,95000,85000,london,data engineer,other,1,0,0,1
+analytics data engineer,harnham - data & analytics recruitment,leeds,"permanent, full-time",no,"£65,000 - £75,000 per annum",0,0,65000,75000,70000,leeds,data engineer,other,1,0,0,1
+lead data engineer,gleeson recruitment group,solihull,"permanent, full-time",work from home,"£90,000 per annum",0,0,90000,90000,90000,other cities,data engineer,senior,1,0,1,1
+data engineer  azure,method resourcing,london,"permanent, full-time",no,"£50,000 - £60,000 per annum",0,0,50000,60000,55000,london,data engineer,other,1,0,0,0
+senior data engineer,harnham - data & analytics recruitment,london,"permanent, full-time",work from home,"£85,000 - £100,000 per annum",0,0,85000,100000,92500,london,data engineer,senior,1,0,1,1
+lead data engineer,harnham - data & analytics recruitment,london,"permanent, full-time",no,"£100,000 - £110,000 per annum",0,0,100000,110000,105000,london,data engineer,senior,1,0,0,1
+lead data engineer,harnham - data & analytics recruitment,central london,"permanent, full-time",no,"£55,000 - £60,000 per annum",0,0,55000,60000,57500,london,data engineer,senior,1,0,0,1
+senior data engineer,harnham - data & analytics recruitment,london,"permanent, full-time",no,"£80,000 - £100,000 per annum",0,0,80000,100000,90000,london,data engineer,senior,1,0,0,1
+data engineer,hays specialist recruitment limited,bournemouth,"contract, full-time",no,£350 - £400 per day,0,1,91000,104000,97500,other cities,data engineer,other,0,1,0,1
+data engineer,sanderson,edinburgh,"contract, full-time",work from home,£600 - £650 per day,0,1,156000,169000,162500,other cities,data engineer,other,0,1,1,0
+lead data engineer,harnham - data & analytics recruitment,london,"permanent, full-time",no,"£90,000 - £110,000 per annum",0,0,90000,110000,100000,london,data engineer,senior,1,0,0,1
+lead data engineer,saga,london,"permanent, full-time",work from home,"£60,000 - £70,000 per annum, inc benefits",0,0,60000,70000,65000,london,data engineer,senior,1,0,1,0
+junior data engineer,alfen technology ltd,leicester,"permanent, full-time",no,"£20,000 - £28,000 per annum",0,0,20000,28000,24000,other cities,data engineer,junior,1,0,0,0
+data cabling engineer / data engineer,lynx recruitment ltd,london heathrow airport,"contract, full-time",no,"£180 - £200 per day, negotiable",0,1,46800,52000,49400,london,data engineer,other,0,1,0,1
+lead data engineer,nigel frank international,london,"permanent, full-time",no,"£70,000 - £80,000 per annum",0,0,70000,80000,75000,london,data engineer,senior,1,0,0,0
+senior data engineer,boston hale,london,"permanent, full-time",no,"£65,000 - £72,000 per annum",0,0,65000,72000,68500,london,data engineer,senior,1,0,0,0
+lead data engineer,tria recruitment,london,"permanent, full-time",no,"£90,000 - £100,000 per annum",0,0,90000,100000,95000,london,data engineer,senior,1,0,0,1
+senior data engineer,proactive appointments,redhill,"permanent, full-time",no,"£60,000 - £65,000 per annum",0,0,60000,65000,62500,other cities,data engineer,senior,1,0,0,0
+senior data engineer,harnham - data & analytics recruitment,london,"permanent, full-time",no,"£60,000 - £75,000 per annum",0,0,60000,75000,67500,london,data engineer,senior,1,0,0,1
+contract data engineer,harnham - data & analytics recruitment,london,"contract, full-time",work from home,£500 - £650 per day,0,1,130000,169000,149500,london,data engineer,other,0,1,1,1
+data engineer dbt,harnham - data & analytics recruitment,london,"contract, full-time",work from home,£550 - £700 per day,0,1,143000,182000,162500,london,data engineer,other,0,1,1,1
+lead data engineer,saga,london,"permanent, full-time",work from home,"£70,000 - £78,000 per annum",0,0,70000,78000,74000,london,data engineer,senior,1,0,1,0
+senior data engineer,client server ltd.,"shoreditch, london","permanent, full-time",no,"£70,000 - £80,000 per annum",0,0,70000,80000,75000,london,data engineer,senior,1,0,0,0
+azure data engineer,method resourcing,london,"permanent, full-time",no,"£45,000 - £55,000 per annum",0,0,45000,55000,50000,london,data engineer,other,1,0,0,0
+azure data engineer,betechnology group limited,birmingham,"permanent, full-time",work from home,"£35,000 - £45,000 per annum",0,0,35000,45000,40000,birmingham,data engineer,other,1,0,1,0
+senior data engineer,method resourcing,london,"permanent, full-time",no,"£90,000 - £120,000 per annum",0,0,90000,120000,105000,london,data engineer,senior,1,0,0,0
+lead data engineer,la fosse,london,"permanent, full-time",no,"£115,000 - £150,000 per annum",0,0,115000,150000,132500,london,data engineer,senior,1,0,0,0
+senior data engineer,salt search,london,"permanent, full-time",no,"£75,000 - £95,000 per annum",0,0,75000,95000,85000,london,data engineer,senior,1,0,0,0
+junior data engineer,langham recruitment limited,norwich,"permanent, full-time",no,"£35,000 per annum",0,0,35000,35000,35000,other cities,data engineer,junior,1,0,0,1
+senior data engineer,harnham - data & analytics recruitment,camden (london borough),"permanent, full-time",no,"£100,000 - £120,000 per annum",0,0,100000,120000,110000,london,data engineer,senior,1,0,0,1
+data engineer consultant,harnham - data & analytics recruitment,birmingham,"permanent, full-time",no,"£55,000 - £60,000 per annum",0,0,55000,60000,57500,birmingham,data engineer,other,1,0,0,1
+lead data engineer,harnham - data & analytics recruitment,leeds,"permanent, full-time",no,"£55,000 - £59,000 per annum",0,0,55000,59000,57000,leeds,data engineer,senior,1,0,0,1
+customer data engineer,harnham - data & analytics recruitment,london,"permanent, full-time",no,"£40,000 - £45,000 per annum",0,0,40000,45000,42500,london,data engineer,other,1,0,0,1
+graduate data engineer,searchability,coventry,"permanent, full-time",no,"£25,000 per annum",0,0,25000,25000,25000,other cities,data engineer,junior,1,0,0,0
+analytical data engineer,harnham - data & analytics recruitment,uxbridge,"permanent, full-time",no,"£65,000 - £75,000 per annum",0,0,65000,75000,70000,other cities,data engineer,other,1,0,0,1
+lead data engineer,harnham - data & analytics recruitment,london,"permanent, full-time",no,"£100,000 - £120,000 per annum",0,0,100000,120000,110000,london,data engineer,senior,1,0,0,1
+senior data engineer,harnham - data & analytics recruitment,birmingham,"permanent, full-time",no,"£60,000 - £65,000 per annum",0,0,60000,65000,62500,birmingham,data engineer,senior,1,0,0,1
+senior data engineer,yolk recruitment ltd,"newport, gwent","permanent, full-time",no,"£41,000 - £51,000 per annum",0,0,41000,51000,46000,other cities,data engineer,senior,1,0,0,1
+lead data engineer,harnham - data & analytics recruitment,london,"permanent, full-time",no,"£80,000 - £110,000 per annum, ote, inc benefits, pro-rata, negotiable",0,0,80000,110000,95000,london,data engineer,senior,1,0,0,1
+senior data engineer,arc it recruitment,london,"permanent, full-time",no,"£75,000 - £85,000 per annum",0,0,75000,85000,80000,london,data engineer,senior,1,0,0,1
+senior data engineer,betechnology group limited,manchester,"permanent, full-time",no,"£50,000 - £55,000 per annum",0,0,50000,55000,52500,manchester,data engineer,senior,1,0,0,0
+software data engineer,computer futures,birmingham,"permanent, full-time",work from home,"£40,000 - £65,000 per annum",0,0,40000,65000,52500,birmingham,data engineer,other,1,0,1,0
+senior data engineer,harnham - data & analytics recruitment,london,"permanent, full-time",no,"£75,000 - £85,000 per annum",0,0,75000,85000,80000,london,data engineer,senior,1,0,0,1
+principal data engineer,nigel wright recruitment,newcastle upon tyne,"permanent, full-time",no,"£45,000 - £50,000 per annum",0,0,45000,50000,47500,other cities,data engineer,other,1,0,0,1
+big data engineer,eames consulting,london,"contract, full-time",no,£500 - £550 per day,0,1,130000,143000,136500,london,data engineer,other,0,1,0,0
+software data engineer,computer futures,cheltenham,"permanent, full-time",work from home,"£40,000 - £65,000 per annum",0,0,40000,65000,52500,other cities,data engineer,other,1,0,1,0
+data engineer sql data warehouse,client server ltd.,epsom,"permanent, full-time",no,"£45,000 - £55,000 per annum",0,0,45000,55000,50000,other cities,data engineer,other,1,0,0,0
+lead data engineer remote,method resourcing,london,"permanent, full-time",work from home,"£75,000 - £90,000 per annum",0,0,75000,90000,82500,london,data engineer,senior,1,0,1,0
+data engineer - snowflake,lawrence harvey,london,"permanent, full-time",no,"£80,000 - £95,000 per annum",0,0,80000,95000,87500,london,data engineer,other,1,0,0,0
+data engineer - london,lynx recruitment ltd,london,"permanent, full-time",no,"£50,000 - £70,000 per annum",0,0,50000,70000,60000,london,data engineer,other,1,0,0,1
+data engineer - manchester,lynx recruitment ltd,manchester,"permanent, full-time",no,"£50,000 - £70,000 per annum",0,0,50000,70000,60000,manchester,data engineer,other,1,0,0,1
+senior azure data engineer,method resourcing,london,"permanent, full-time",no,"£50,000 - £70,000 per annum",0,0,50000,70000,60000,london,data engineer,senior,1,0,0,0
+data engineer - blockchain,understanding recruitment,london,"permanent, full-time",no,"£80,000 - £90,000 per annum",0,0,80000,90000,85000,london,data engineer,other,1,0,0,1
+software data engineer,cps group,london,"permanent, full-time",no,"£40,000 - £70,000 per annum",0,0,40000,70000,55000,london,data engineer,other,1,0,0,0
+data engineer - hospitality,harnham - data & analytics recruitment,manchester,"permanent, full-time",no,"£65,000 - £75,000 per annum",0,0,65000,75000,70000,manchester,data engineer,other,1,0,0,1
+senior big data engineer,harnham - data & analytics recruitment,birmingham,"permanent, full-time",no,"£90,000 - £100,000 per annum",0,0,90000,100000,95000,birmingham,data engineer,senior,1,0,0,1
+senior big data engineer,harnham - data & analytics recruitment,newcastle upon tyne,"permanent, full-time",no,"£90,000 - £100,000 per annum",0,0,90000,100000,95000,other cities,data engineer,senior,1,0,0,1
+senior big data engineer,harnham - data & analytics recruitment,leeds,"permanent, full-time",no,"£90,000 - £100,000 per annum",0,0,90000,100000,95000,leeds,data engineer,senior,1,0,0,1
+data engineer python/aws,red king resourcing,london,"permanent, full-time",no,"£50,000 - £55,000 per annum",0,0,50000,55000,52500,london,data engineer,other,1,0,0,0
+data engineer - blockchain,understanding recruitment,london,"permanent, full-time",no,"£90,000 - £100,000 per annum",0,0,90000,100000,95000,london,data engineer,other,1,0,0,1
+senior big data engineer,harnham - data & analytics recruitment,manchester,"permanent, full-time",no,"£90,000 - £100,000 per annum",0,0,90000,100000,95000,manchester,data engineer,senior,1,0,0,1
+senior aws data engineer,expert employment limited,london,"permanent, full-time",no,"£55,000 - £80,000 per annum",0,0,55000,80000,67500,london,data engineer,senior,1,0,0,0
+"data engineer aws, sql",adria solutions ltd,manchester,"permanent, full-time",no,"£60,000 - £70,000 per annum",0,0,60000,70000,65000,manchester,data engineer,other,1,0,0,0
+contact centre data engineer,customer talent search,manchester,"permanent, full-time",no,"£40,000 - £50,000 per annum",0,0,40000,50000,45000,manchester,data engineer,other,1,0,0,0
+sap data engineer,experis ltd,coventry,"contract, full-time",no,£575 - £600 per day,0,1,149500,156000,152750,other cities,data engineer,other,0,1,0,0
+senior data engineer fully-remote,method resourcing,cambridge,"permanent, full-time",work from home,"£70,000 - £85,000 per annum",0,0,70000,85000,77500,other cities,data engineer,senior,1,0,1,0
+senior data engineer - hybrid/edinburgh,jefferson frank,edinburgh,"permanent, full-time",no,"£75,000 per annum",0,0,75000,75000,75000,other cities,data engineer,senior,1,0,0,0
+senior data engineer fully-remote,method resourcing,london,"permanent, full-time",work from home,"£90,000 - £100,000 per annum",0,0,90000,100000,95000,london,data engineer,senior,1,0,1,0
+tech lead/ lead data engineer,harnham - data & analytics recruitment,london,"permanent, full-time",no,"£95,000 - £105,000 per annum",0,0,95000,105000,100000,london,data engineer,senior,1,0,0,1
+security systems & data engineer,get staff,derbyshire,"permanent, full-time",no,£14 - £18 per hour,1,0,28000,36000,32000,other cities,data engineer,other,1,0,0,0
+data engineer - remote first,understanding recruitment,london,"permanent, full-time",no,"£50,000 - £60,000 per annum",0,0,50000,60000,55000,london,data engineer,other,1,0,0,1
+data engineer / web scraper,harnham - data & analytics recruitment,durham,"permanent, full-time",no,"£60,000 - £80,000 per annum",0,0,60000,80000,70000,other cities,data engineer,other,1,0,0,1
+data engineer / web scraper,harnham - data & analytics recruitment,leeds,"permanent, full-time",no,"£60,000 - £80,000 per annum",0,0,60000,80000,70000,leeds,data engineer,other,1,0,0,1
+data engineer - web scraper,harnham - data & analytics recruitment,leeds,"permanent, full-time",no,"£60,000 - £80,000 per annum",0,0,60000,80000,70000,leeds,data engineer,other,1,0,0,1
+data engineer - web scraper,harnham - data & analytics recruitment,london,"permanent, full-time",no,"£65,000 - £80,000 per annum",0,0,65000,80000,72500,london,data engineer,other,1,0,0,1
+junior data engineer & administrator,xpertise recruitment ltd,liverpool,"permanent, full-time",no,"£25,000 - £30,000 per annum",0,0,25000,30000,27500,other cities,data engineer,junior,1,0,0,1
+"senior data engineer - £100,000",jefferson frank,london,"permanent, full-time",no,"£80,000 - £100,000 per annum",0,0,80000,100000,90000,london,data engineer,senior,1,0,0,0
+data engineer java etl sql,client server ltd.,city of london,"permanent, full-time",no,"£70,000 - £85,000 per annum",0,0,70000,85000,77500,london,data engineer,other,1,0,0,0
+data engineering manager / lead data engineer remote,michael page technology,birmingham,"permanent, full-time",work from home,"£70,000 - £80,000 per annum, inc benefits",0,0,70000,80000,75000,birmingham,data engineer,senior,1,0,1,0
+data engineer big data / mobile payments / fintech,cps group,london,"permanent, full-time",work from home,"£75,000 - £90,000 per annum",0,0,75000,90000,82500,london,data engineer,other,1,0,1,0
+lead data engineer - london - £80k,nigel frank international,slough,"permanent, full-time",no,"£60,000 - £80,000 per annum",0,0,60000,80000,70000,other cities,data engineer,senior,1,0,0,0
+lead data engineer - london - £80k,nigel frank international,london,"permanent, full-time",no,"£60,000 - £80,000 per annum",0,0,60000,80000,70000,london,data engineer,senior,1,0,0,0
+"lead data engineer - medtech, contract",richard wheeler associates,london,"contract, full-time",work from home,£650 per day,0,1,169000,169000,169000,london,data engineer,senior,0,1,1,0
+lead data engineer - london - £80k,nigel frank international,reading,"permanent, full-time",no,"£60,000 - £80,000 per annum",0,0,60000,80000,70000,other cities,data engineer,senior,1,0,0,0
+data engineer java aws - remote,client server ltd.,city of london,"permanent, full-time",no,"£70,000 - £85,000 per annum",0,0,70000,85000,77500,london,data engineer,other,1,0,0,0
+junior data engineer - marketing technology,harnham - data & analytics recruitment,edinburgh,"permanent, full-time",no,"£40,000 - £50,000 per annum",0,0,40000,50000,45000,other cities,data engineer,junior,1,0,0,1
+junior data engineer - marketing technology,harnham - data & analytics recruitment,nottingham,"permanent, full-time",no,"£40,000 - £50,000 per annum",0,0,40000,50000,45000,other cities,data engineer,junior,1,0,0,1
+big data engineer - dv cleared,searchability,london,"permanent, full-time",no,"£45,000 - £75,000 per annum",0,0,45000,75000,60000,london,data engineer,other,1,0,0,0
+data engineer java etl - fintech,client server ltd.,bristol,"permanent, full-time",no,"£70,000 - £85,000 per annum",0,0,70000,85000,77500,other cities,data engineer,other,1,0,0,0
+senior data engineer - remote - £65-70k,nigel frank international,london,"permanent, full-time",no,"£65,000 - £70,000 per annum",0,0,65000,70000,67500,london,data engineer,senior,1,0,0,0
+junior data engineer - marketing technology,harnham - data & analytics recruitment,manchester,"permanent, full-time",no,"£40,000 - £50,000 per annum",0,0,40000,50000,45000,manchester,data engineer,junior,1,0,0,1
+data engineer lv2 sc,robert walters,london,"contract, full-time",no,£400 - £700 per day,0,1,104000,182000,143000,london,data engineer,other,0,1,0,0
+senior data engineer sql bigquery gcp,client server ltd.,temple meads,"permanent, full-time",no,"£90,000 - £110,000 per annum",0,0,90000,110000,100000,other cities,data engineer,senior,1,0,0,0
+data engineer snowflake & dbt/ etl,hays specialist recruitment limited,london,"contract, full-time",no,£600 - £620 per day,0,1,156000,161200,158600,london,data engineer,other,0,1,0,1
+senior data engineer sql bigquery gcp,client server ltd.,city of london,"permanent, full-time",no,"£90,000 - £110,000 per annum",0,0,90000,110000,100000,london,data engineer,senior,1,0,0,0
+aws data engineer - pandas & python,jefferson frank,london,"contract, full-time",work from home,£450 - £600 per day,0,1,117000,156000,136500,london,data engineer,other,0,1,1,0
+data engineer - aws - remote,xpertise recruitment ltd,leeds,"contract, full-time",work from home,£450 - £600 per day,0,1,117000,156000,136500,leeds,data engineer,other,0,1,1,1
+"lead data engineer - aws, snowflake, dbt",marshall wolfe,city of london,"permanent, full-time",no,"£70,000 - £90,000 per annum",0,0,70000,90000,80000,london,data engineer,senior,1,0,0,0
+data engineer - python big query gcp,client server ltd.,bristol,"permanent, full-time",no,"£70,000 - £80,000 per annum",0,0,70000,80000,75000,other cities,data engineer,other,1,0,0,0
+sap business objects data engineer,harvey nash,london,"permanent, full-time",no,"£80,000 - £85,000 per annum",0,0,80000,85000,82500,london,data engineer,other,1,0,0,0
+sap bi bo data engineer,harvey nash,london,"permanent, full-time",no,"£80,000 - £85,000 per annum",0,0,80000,85000,82500,london,data engineer,other,1,0,0,0
+data engineer  aws  activesc  outside ir35  6 month,sr2,london,"contract, full-time",no,£475 - £500 per day,0,1,123500,130000,126750,london,data engineer,other,0,1,0,0
+data engineer - sql - remote,cv screen,london,"permanent, full-time",no,"£30,000 - £40,000 per annum",0,0,30000,40000,35000,london,data engineer,other,1,0,0,0
+senior data engineer - python sql big query,client server ltd.,london,"permanent, full-time",no,"£70,000 - £80,000 per annum",0,0,70000,80000,75000,london,data engineer,senior,1,0,0,0
+principal cloud data engineer gcp uk wide,intuita,london,"permanent, full-time",work from home,"£70,000 - £90,000 per annum",0,0,70000,90000,80000,london,data engineer,other,1,0,1,0
+senior data engineer - python sql big query,client server ltd.,"shoreditch, london","permanent, full-time",no,"£70,000 - £80,000 per annum",0,0,70000,80000,75000,london,data engineer,senior,1,0,0,0
+"lead data engineer - salary to £110,000 - hybrid",jefferson frank,london,"permanent, full-time",no,"£90,000 - £110,000 per annum",0,0,90000,110000,100000,london,data engineer,senior,1,0,0,0
+"azure data engineer powerbi, databricks -contract- outside ir35",randstad technologies,london,"contract, full-time",work from home,£400 - £401 per day,0,1,104000,104260,104130,london,data engineer,other,0,1,1,0
+snowflake data engineer  python  6 months  outside ir35,sr2,bristol,"contract, full-time",no,£400 - £550 per day,0,1,104000,143000,123500,other cities,data engineer,other,0,1,0,0
+data engineer - inside ir35 - leeds - mostly remote,xpertise recruitment ltd,leeds,"contract, full-time",work from home,£475 - £575 per day,0,1,123500,149500,136500,leeds,data engineer,other,0,1,1,1
+data engineer -12 month fixed-term contract -manchester - £45k,oscar technology,manchester,"permanent, full-time",no,"£30,000 - £45,000 per annum",0,0,30000,45000,37500,manchester,data engineer,other,1,0,0,0
+data engineer - 12 month fixed term contract - remote,michael page technology,birmingham,"permanent, full-time",work from home,"£50,000 - £60,000 per annum, inc benefits",0,0,50000,60000,55000,birmingham,data engineer,other,1,0,1,0
+"data engineer sql, python, cloud - manchester - up to £60k",oscar technology,manchester,"permanent, full-time",no,"£40,000 - £60,000 per annum",0,0,40000,60000,50000,manchester,data engineer,other,1,0,0,0
+lead data engineer.,adria solutions ltd,london,"permanent, full-time",work from home,"£80,000 - £120,000 per annum",0,0,80000,120000,100000,london,data engineer,senior,1,0,1,0
+data engineer- kdb,sanderson,london,"contract, full-time",no,£450 - £470 per day,0,1,117000,122200,119600,london,data engineer,other,0,1,0,0
+data engineer - gis / logistics / geo spatial - 32k london - hybrid lon,the workplace consultancy,london,"permanent, full-time",no,"£28,000 - £32,000 per annum",0,0,28000,32000,30000,london,data engineer,other,1,0,0,0
+senior data engineer/web scraper,harnham - data & analytics recruitment,edinburgh,"permanent, full-time",no,"£60,000 - £80,000 per annum",0,0,60000,80000,70000,other cities,data engineer,senior,1,0,0,1
+senior data engineer/web scraper,harnham - data & analytics recruitment,nottingham,"permanent, full-time",no,"£60,000 - £80,000 per annum",0,0,60000,80000,70000,other cities,data engineer,senior,1,0,0,1
+senior data engineer/web scraper,harnham - data & analytics recruitment,manchester,"permanent, full-time",no,"£60,000 - £80,000 per annum",0,0,60000,80000,70000,manchester,data engineer,senior,1,0,0,1
+senior data engineer/web scraper,harnham - data & analytics recruitment,leicester,"permanent, full-time",no,"£60,000 - £80,000 per annum",0,0,60000,80000,70000,other cities,data engineer,senior,1,0,0,1
+senior data engineer/web scraper,harnham - data & analytics recruitment,leeds,"permanent, full-time",no,"£60,000 - £80,000 per annum",0,0,60000,80000,70000,leeds,data engineer,senior,1,0,0,1
+"data engineer/aws - £80,000  benefits - flexible",ventula consulting limited,london,"permanent, full-time",no,"£70,000 - £80,000 per annum",0,0,70000,80000,75000,london,data engineer,other,1,0,0,0
+"data engineer, fully remote uk, 50k",jefferson frank,london,"permanent, full-time",work from home,"£50,000 per annum",0,0,50000,50000,50000,london,data engineer,other,1,0,1,0
+senior data engineer/architect - financial mainly remote london,noir,london,"permanent, full-time",no,"£90,000 per annum",0,0,90000,90000,90000,london,data engineer,senior,1,0,0,0
+azure data engineer- bristol based- £550 outside ir35- contract,randstad technologies,bristol,"contract, full-time",no,£450 - £550 per day,0,1,117000,143000,130000,other cities,data engineer,other,0,1,0,0
+data engineering lead - hybrid - london,nigel frank international,london,"permanent, full-time",no,"£65,000 - £80,000 per annum",0,0,65000,80000,72500,london,data engineer,senior,1,0,0,0
+data engineering manager - coventry,experis ltd,coventry,"permanent, full-time",no,"£60,000 - £80,000 per annum",0,0,60000,80000,70000,other cities,data engineer,other,1,0,0,0
+"azure operations data specialist - exeter - £55,000",pearson carter,london,"permanent, full-time",no,"£45,000 - £55,000 per annum",0,0,45000,55000,50000,london,other,other,1,0,0,0
+business intelligence engineer,abl recruitment,london,"contract, full-time",no,£450 - £500 per day,0,1,117000,130000,123500,london,other,other,0,1,0,1
+senior machine learning engineer,harnham - data & analytics recruitment,london,"permanent, full-time",no,"£75,000 - £95,000 per annum",0,0,75000,95000,85000,london,machine learning engineer,senior,1,0,0,1
+machine learning engineer,harnham - data & analytics recruitment,london,"contract, full-time",no,£700 - £850 per day,0,1,182000,221000,201500,london,machine learning engineer,other,0,1,0,1
+machine learning engineer contract,harnham - data & analytics recruitment,london,"contract, full-time",no,£350 - £400 per day,0,1,91000,104000,97500,london,machine learning engineer,other,0,1,0,1
+equity quantitative research software engineer,huxley,london,"permanent, full-time",no,"£50,000 - £250,000 per annum",0,0,50000,250000,150000,london,other,other,1,0,0,0
+"machine learning engineer - llms, fintech",understanding recruitment,london,"permanent, full-time",no,"£80,000 - £90,000 per annum",0,0,80000,90000,85000,london,machine learning engineer,other,1,0,0,1
+ai engineer - artificial intelligence / machine learning,salt search,london,"permanent, full-time",no,"£60,000 - £80,000 per annum",0,0,60000,80000,70000,london,machine learning engineer,other,1,0,0,0
+head of data engineering,xpertise recruitment ltd,iver,"permanent, full-time",work from home,"£100,000 - £140,000 per annum",0,0,100000,140000,120000,other cities,data engineer,senior,1,0,1,1
+"data engineering lead - payments, financial services",harvey nash,london,"permanent, full-time",no,"£95,000 - £110,000 per annum",0,0,95000,110000,102500,london,data engineer,senior,1,0,0,0
+head of data engineering azure databricks,digital waffle,nottingham,"permanent, full-time",no,"£100,000 - £115,000 per annum",0,0,100000,115000,107500,other cities,data engineer,senior,1,0,0,0
+business intelligence developer,xpertise recruitment ltd,london,"contract, full-time",no,£385 - £400 per day,0,1,100100,104000,102050,london,other,other,0,1,0,1
+senior quantitative researcher,the people network,city of london,"permanent, full-time",no,"£140,000 - £170,000 per annum",0,0,140000,170000,155000,london,other,senior,1,0,0,0
+machine learning research engineer,understanding recruitment,harpenden,"permanent, full-time",no,"£70,000 - £80,000 per annum",0,0,70000,80000,75000,other cities,machine learning engineer,other,1,0,0,1
+machine learning research engineer (remote),trustworthyai,cardiff,"permanent, full-time",work from home,"£35,000 - £65,000 per annum, negotiable",0,0,35000,65000,50000,other cities,machine learning engineer,other,1,0,1,0
+senior machine learning opportunity,x4 group,london,"permanent, full-time",no,"£70,000 - £90,000 per annum",0,0,70000,90000,80000,london,machine learning engineer,senior,1,0,0,0
+machine learning lead,microtech global ltd,london,"permanent, full-time",no,"£100,000 - £130,000 per annum",0,0,100000,130000,115000,london,machine learning engineer,senior,1,0,0,0
+machine learning (advanced),microtech global ltd,london,"permanent, full-time",no,"£80,000 - £100,000 per annum",0,0,80000,100000,90000,london,machine learning engineer,other,1,0,0,0
+machine learning (speech) researcher,microtech global ltd,egham,"permanent, full-time",no,"£100,000 - £110,000 per annum",0,0,100000,110000,105000,other cities,machine learning engineer,other,1,0,0,0
+machine learning researcher in personalised,microtech global ltd,london,"permanent, full-time",no,"£70,000 - £90,000 per annum",0,0,70000,90000,80000,london,machine learning engineer,other,1,0,0,0
+junior data engineer - marketing technology,harnham - data & analytics recruitment,newcastle upon tyne,"permanent, full-time",no,"£40,000 - £50,000 per annum",0,0,40000,50000,45000,other cities,data engineer,junior,1,0,0,1
+junior data engineer - marketing technology,harnham - data & analytics recruitment,leeds,"permanent, full-time",no,"£40,000 - £50,000 per annum",0,0,40000,50000,45000,leeds,data engineer,junior,1,0,0,1
+data engineer,positive employment,london,"contract, full-time",no,£350 - £400 per day,0,1,91000,104000,97500,london,data engineer,other,0,1,0,0
+data engineer,positive employment,london,"contract, full-time",no,£34 - £37.15 per hour,1,0,68000,74000,71000,london,data engineer,other,0,1,0,0
+data science lead,reed,manchester,"temporary, full-time",work from home,"£735 per day, inc benefits",0,1,191100,191100,191100,manchester,data scientist,senior,0,1,1,0
+data science consultant,ck group,tadworth,"contract, full-time",no,£1 - £22.50 per hour,1,0,2000,44000,23000,other cities,data scientist,other,0,1,0,0
+director of data science,harnham - data & analytics recruitment,london,"permanent, full-time",work from home,"£110,000 - £170,000 per annum",0,0,110000,170000,140000,london,data scientist,other,1,0,1,1
+director of data science,harnham - data & analytics recruitment,london,"permanent, full-time",no,"£100,000 - £115,000 per annum",0,0,100000,115000,107500,london,data scientist,other,1,0,0,1
+operations technician graduate with data science background,hays specialist recruitment limited,london,"permanent, full-time",no,"£30,000 - £35,000 per annum",0,0,30000,35000,32500,london,data scientist,junior,1,0,0,1
+senior data analyst,grosvenor consulting ltd,south london,"permanent, full-time",no,"£50,000 - £60,000 per annum, negotiable",0,0,50000,60000,55000,london,data analyst,senior,1,0,0,0
+senior analyst,gregory martin international,winchester,"permanent, full-time",no,"£35,000 - £60,000 per annum",0,0,35000,60000,47500,other cities,other,senior,1,0,0,0
+senior data analyst,mcgregor boyall,london,"permanent, full-time",no,"£50,000 - £60,000 per annum",0,0,50000,60000,55000,london,data analyst,senior,1,0,0,0
+senior data scientist,la fosse,london,"permanent, full-time",no,"£70,000 - £100,000 per annum",0,0,70000,100000,85000,london,data scientist,senior,1,0,0,0
+power bi data manager,betechnology group limited,leicester,"permanent, full-time",no,"£30,000 - £40,000 per annum",0,0,30000,40000,35000,other cities,other,other,1,0,0,0
+senior data analyst,adlib,london,"permanent, full-time",no,"£40,000 - £50,000 per annum",0,0,40000,50000,45000,london,data analyst,senior,1,0,0,0
+senior data analyst,nigel frank international,glasgow,"permanent, full-time",no,"£55,000 - £65,000 per annum",0,0,55000,65000,60000,other cities,data analyst,senior,1,0,0,0
+senior data analyst,nigel frank international,southampton,"permanent, full-time",no,"£55,000 - £65,000 per annum",0,0,55000,65000,60000,other cities,data analyst,senior,1,0,0,0
+senior data analyst,nigel frank international,reading,"permanent, full-time",no,"£55,000 - £65,000 per annum",0,0,55000,65000,60000,other cities,data analyst,senior,1,0,0,0
+senior data analyst,nigel frank international,stoke-on-trent,"permanent, full-time",no,"£55,000 - £65,000 per annum",0,0,55000,65000,60000,other cities,data analyst,senior,1,0,0,0
+senior data analyst,nigel frank international,northampton,"permanent, full-time",no,"£55,000 - £65,000 per annum",0,0,55000,65000,60000,other cities,data analyst,senior,1,0,0,0
+senior data analyst,nigel frank international,worcester,"permanent, full-time",no,"£55,000 - £65,000 per annum",0,0,55000,65000,60000,other cities,data analyst,senior,1,0,0,0
+senior data analyst,nigel frank international,leicester,"permanent, full-time",no,"£55,000 - £65,000 per annum",0,0,55000,65000,60000,other cities,data analyst,senior,1,0,0,0
+senior data analyst,nigel frank international,london,"permanent, full-time",no,"£55,000 - £65,000 per annum",0,0,55000,65000,60000,london,data analyst,senior,1,0,0,0
+senior data analyst,nigel frank international,nottingham,"permanent, full-time",no,"£55,000 - £65,000 per annum",0,0,55000,65000,60000,other cities,data analyst,senior,1,0,0,0
+supply chain data analyst,barclay meade,southampton,"permanent, full-time",no,"£25,000 - £35,000 per annum",0,0,25000,35000,30000,other cities,data analyst,other,1,0,0,0
+senior data analyst,nigel frank international,milton keynes,"permanent, full-time",no,"£55,000 - £65,000 per annum",0,0,55000,65000,60000,other cities,data analyst,senior,1,0,0,0
+esg data analyst,venn group,london,"permanent, full-time",no,"£75,000 - £95,000 per annum",0,0,75000,95000,85000,london,data analyst,other,1,0,0,0
+junior data analyst,new london hr,london,"permanent, full-time",no,"£55,000 - £65,000 per annum, ote, inc benefits, pro-rata, negotiable",0,0,55000,65000,60000,london,data analyst,junior,1,0,0,0
+business analyst consultant,gregory martin international,winchester,"permanent, full-time",no,"£40,000 - £70,000 per annum",0,0,40000,70000,55000,other cities,business analyst,other,1,0,0,0
+senior business analyst -  public sector - education,michael page technology,london,"contract, full-time",no,"£50,000 - £62,000 per annum",0,0,50000,62000,56000,london,business analyst,senior,0,1,0,0
+technical business analyst,internal flexy,london,"contract, full-time",no,"£45,000 - £50,000 per annum",0,0,45000,50000,47500,london,business analyst,other,0,1,0,0
